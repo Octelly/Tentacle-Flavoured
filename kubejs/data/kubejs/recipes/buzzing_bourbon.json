@@ -1,0 +1,39 @@
+{
+  "type": "brewinandchewin:fermenting",
+  "container": {
+    "item": "brewinandchewin:tankard"
+  },
+  "experience": 0.6,
+  "fermentingtime": 6000,
+  "fluiditem": {
+    "item": "minecraft:water_bucket"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "buzzier_bees:buttercup"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    },
+    [
+	{
+      "item": "culturaldelights:corn_cob"
+    },
+	{
+      "item": "culturaldelights:corn_kernels"
+    },
+	{
+      "item": "kubejs:corn_flour"
+    }
+	]
+  ],
+  "recipe_book_tab": "drinks",
+  "result": {
+	"count": 2,
+    "item": "kubejs:buzzing_bourbon"
+  },
+  "temperature": 2
+}

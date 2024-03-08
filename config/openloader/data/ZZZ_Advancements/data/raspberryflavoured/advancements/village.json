@@ -1,0 +1,30 @@
+{
+  "parent": "raspberryflavoured:cock",
+  "criteria": {
+    "0": {
+      "conditions": {},
+      "trigger": "minecraft:cured_zombie_villager"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "color": "#CE3131",
+      "text": "Using a splash potion of weakness and a golden apple, cure a zombified villager - time to start a village!"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:golden_apple"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "I Told The Witch Doctor..."
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ]
+}

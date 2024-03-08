@@ -1,0 +1,13 @@
+name = "Survivality"
+filename = "survivality-1.19.2-1.2.4-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e987d53f3c0e5931d3366af4f3e1453b2e9878c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4533526
+project-id = 853410

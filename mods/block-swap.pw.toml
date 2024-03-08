@@ -1,0 +1,13 @@
+name = "Block Swap"
+filename = "Block Swap-forge-1.19-2.0.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae435d5c6e701d8e2872c5a3fb9c1052fe96d0be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3825866
+project-id = 468893

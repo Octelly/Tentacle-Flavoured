@@ -1,0 +1,13 @@
+name = "Copperized"
+filename = "Copperized-1.19-2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a67be4a7c96b67318b74eab7cbfb3c184dcd1d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3972600
+project-id = 567666

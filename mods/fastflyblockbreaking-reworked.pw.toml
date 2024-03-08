@@ -1,0 +1,13 @@
+name = "FastFlyBlockBreaking Reworked"
+filename = "fastflyblockbreak-0.0.1-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ebb252db240dd8e7d1618bb8849e8d994513073"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4711107
+project-id = 904186

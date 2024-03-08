@@ -1,0 +1,13 @@
+name = "True Darkness"
+filename = "darkness-forge-mc119-2.0.101.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "438a7c243af5afc9f53212449eb37b8c3d8994af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4143529
+project-id = 337243

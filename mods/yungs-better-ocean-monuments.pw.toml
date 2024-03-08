@@ -1,0 +1,13 @@
+name = "YUNG's Better Ocean Monuments (Forge)"
+filename = "YungsBetterOceanMonuments-1.19.2-Forge-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "511bb204a6fa2b663c7f800d920123792f85a048"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4031366
+project-id = 689238

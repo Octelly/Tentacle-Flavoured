@@ -1,0 +1,34 @@
+{
+  "parent": "raspberryflavoured:cock",
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {
+        "effects": {
+          "minecraft:bad_omen": {}
+        }
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "color": "#CE3131",
+      "text": "Huh? What's that supposed to mean??"
+    },
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:air"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Consider This Your Bad Omen"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ]
+}

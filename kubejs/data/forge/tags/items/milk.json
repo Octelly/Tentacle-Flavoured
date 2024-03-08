@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:milk_bucket",
+	"neapolitan:milk_bottle"
+  ]
+}

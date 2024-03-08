@@ -1,0 +1,13 @@
+name = "Clear Void"
+filename = "clearvoid-forge-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13364f08d46fa97a633a24d192e42685d0695855"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4734642
+project-id = 909467

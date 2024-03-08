@@ -1,0 +1,31 @@
+{
+  "type": "brewinandchewin:fermenting",
+  "container": {
+    "item": "brewinandchewin:tankard"
+  },
+  "experience": 0.6,
+  "fermentingtime": 3000,
+  "fluiditem": {
+    "item": "brewinandchewin:mead"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:sugar_cane"
+    },
+    {
+      "item": "minecraft:sugar_cane"
+    },
+    {
+      "item": "minecraft:melon_slice"
+    }
+  ],
+  "recipe_book_tab": "drinks",
+  "result": {
+	"count": 2,
+    "item": "brewinandchewin:saccharine_rum"
+  },
+  "temperature": 4
+}

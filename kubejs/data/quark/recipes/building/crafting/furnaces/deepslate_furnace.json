@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DCD",
+    "DDD"
+  ],
+  "key": {
+	"D": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+	"C": {
+      "tag": "minecraft:coals"
+    }
+  },
+  "result": {
+    "item": "quark:deepslate_furnace"
+  },
+  "conditions": [
+      {
+        "type": "quark:flag",
+        "flag": "variant_furnaces"
+      }
+  ]
+}

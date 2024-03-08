@@ -1,0 +1,38 @@
+{
+  "parent": "raspberryflavoured:cock",
+  "criteria": {
+    "0": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kubejs:cinnamon"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "color": "#C44E00",
+      "text": "Strip one of a few special kinds of wood logs on a cutting board with a knife to obtain cinnamon"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "kubejs:cinnamon"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Smells Nice"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ]
+}

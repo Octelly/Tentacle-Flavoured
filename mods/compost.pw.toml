@@ -1,0 +1,13 @@
+name = "Compost"
+filename = "compost-forge-1.19.2-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c0cb7e49735684d544856d57cc1ced5bb1385bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5037105
+project-id = 581323

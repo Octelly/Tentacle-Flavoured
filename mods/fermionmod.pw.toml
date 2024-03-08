@@ -1,0 +1,13 @@
+name = "Fermion!"
+filename = "fermion-1.19.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ea7ea03c56d3df408b583fcb05fe7051f81e4b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4632828
+project-id = 835105

@@ -1,0 +1,853 @@
+{
+    "music.music_disc_eleven": {
+        "sounds": [
+            {
+                "name": "kubejs:music_disc_eleven",
+                "stream": true
+            }
+        ],
+        "subtitle": "Music disc plays"
+    },
+	"music.music_disc_dog": {
+        "sounds": [
+            {
+                "name": "kubejs:music_disc_dog",
+                "stream": true
+            }
+        ],
+        "subtitle": "Music disc plays"
+    },
+	"music.music_disc_halland": {
+        "sounds": [
+            {
+                "name": "kubejs:music_disc_halland",
+                "stream": true
+            }
+        ],
+        "subtitle": "Music disc plays"
+    },
+	"music.music_disc_dalarna": {
+        "sounds": [
+            {
+                "name": "kubejs:music_disc_dalarna",
+                "stream": true
+            }
+        ],
+        "subtitle": "Music disc plays"
+    },
+	"music.music_disc_halland_dalarna": {
+        "sounds": [
+            {
+                "name": "kubejs:music_disc_halland_dalarna",
+                "stream": true
+            }
+        ],
+        "subtitle": "Music disc plays"
+    },
+	"music.music_disc_shimmer": {
+        "sounds": [
+            {
+                "name": "kubejs:music_disc_shimmer",
+                "stream": true
+            }
+        ],
+        "subtitle": "Music disc plays"
+    },
+	"music.music_disc_frontier": {
+        "sounds": [
+            {
+                "name": "kubejs:music_disc_frontier",
+                "stream": true
+            }
+        ],
+        "subtitle": "Music disc plays"
+    },
+	"music.music_disc_origin": {
+        "sounds": [
+            {
+                "name": "kubejs:music_disc_origin",
+                "stream": true
+            }
+        ],
+        "subtitle": "Music disc plays"
+    },
+	"music.music_disc_savour": {
+        "sounds": [
+            {
+                "name": "kubejs:music_disc_savour",
+                "stream": true
+            }
+        ],
+        "subtitle": "Music disc plays"
+    },
+	"sound.soul_salt.break": {
+        "sounds": [
+            "kubejs:soul_salt/break1",
+			"kubejs:soul_salt/break2",
+			"kubejs:soul_salt/break3",
+			"kubejs:soul_salt/break4"
+        ],
+        "subtitle": "Block broken"
+    },
+	"sound.soul_salt.place": {
+        "sounds": [
+            "kubejs:soul_salt/place1",
+			"kubejs:soul_salt/place2",
+			"kubejs:soul_salt/place3",
+			"kubejs:soul_salt/place4"
+        ],
+        "subtitle": "Block placed"
+    },
+	"sound.grass_block.break": {
+        "sounds": [
+            "kubejs:grass_block/break1",
+			"kubejs:grass_block/break2",
+			"kubejs:grass_block/break3",
+			"kubejs:grass_block/break4"
+        ],
+        "subtitle": "Block broken"
+    },
+	"sound.grass_block.place": {
+        "sounds": [
+            "kubejs:grass_block/break1",
+			"kubejs:grass_block/break2",
+			"kubejs:grass_block/break3",
+			"kubejs:grass_block/break4"
+        ],
+        "subtitle": "Block placed"
+    },
+	"sound.grass_block.fall": {
+        "sounds": [
+            "kubejs:grass_block/hit1",
+			"kubejs:grass_block/hit2",
+			"kubejs:grass_block/hit3",
+			"kubejs:grass_block/hit4",
+			"kubejs:grass_block/hit5",
+			"kubejs:grass_block/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.grass_block.step": {
+        "sounds": [
+            "kubejs:grass_block/hit1",
+			"kubejs:grass_block/hit2",
+			"kubejs:grass_block/hit3",
+			"kubejs:grass_block/hit4",
+			"kubejs:grass_block/hit5",
+			"kubejs:grass_block/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.grass_block.hit": {
+        "sounds": [
+            "kubejs:grass_block/hit1",
+			"kubejs:grass_block/hit2",
+			"kubejs:grass_block/hit3",
+			"kubejs:grass_block/hit4",
+			"kubejs:grass_block/hit5",
+			"kubejs:grass_block/hit6"
+        ],
+        "subtitle": "Block breaking"
+    },
+	"sound.clay.break": {
+        "sounds": [
+            "kubejs:clay/break1",
+			"kubejs:clay/break2",
+			"kubejs:clay/break3",
+			"kubejs:clay/break4"
+        ],
+        "subtitle": "Block broken"
+    },
+	"sound.clay.place": {
+        "sounds": [
+            "kubejs:clay/break1",
+			"kubejs:clay/break2",
+			"kubejs:clay/break3",
+			"kubejs:clay/break4"
+        ],
+        "subtitle": "Block placed"
+    },
+	"sound.clay.fall": {
+        "sounds": [
+            "kubejs:clay/hit1",
+			"kubejs:clay/hit2",
+			"kubejs:clay/hit3",
+			"kubejs:clay/hit4",
+			"kubejs:clay/hit5",
+			"kubejs:clay/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.clay.step": {
+        "sounds": [
+            "kubejs:clay/hit1",
+			"kubejs:clay/hit2",
+			"kubejs:clay/hit3",
+			"kubejs:clay/hit4",
+			"kubejs:clay/hit5",
+			"kubejs:clay/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.clay.hit": {
+        "sounds": [
+            "kubejs:clay/hit1",
+			"kubejs:clay/hit2",
+			"kubejs:clay/hit3",
+			"kubejs:clay/hit4",
+			"kubejs:clay/hit5",
+			"kubejs:clay/hit6"
+        ],
+        "subtitle": "Block breaking"
+    },
+	"sound.glowstone.break": {
+        "sounds": [
+            "kubejs:glowstone/break1",
+			"kubejs:glowstone/break2",
+			"kubejs:glowstone/break3",
+			"kubejs:glowstone/break4",
+			"kubejs:glowstone/break5"
+        ],
+        "subtitle": "Block broken"
+    },
+	"sound.glowstone.place": {
+        "sounds": [
+            "kubejs:glowstone/place1",
+			"kubejs:glowstone/place2",
+			"kubejs:glowstone/place3",
+			"kubejs:glowstone/place4",
+			"kubejs:glowstone/place5"
+        ],
+        "subtitle": "Block placed"
+    },
+	"sound.workstation.break": {
+        "sounds": [
+            "kubejs:workstation/break1",
+			"kubejs:workstation/break2",
+			"kubejs:workstation/break3",
+			"kubejs:workstation/break4"
+        ],
+        "subtitle": "Block broken"
+    },
+	"sound.workstation.place": {
+        "sounds": [
+            "kubejs:workstation/break1",
+			"kubejs:workstation/break2",
+			"kubejs:workstation/break3",
+			"kubejs:workstation/break4"
+        ],
+        "subtitle": "Block placed"
+    },
+	"sound.netherwood.break": {
+        "sounds": [
+            "kubejs:netherwood/break1",
+			"kubejs:netherwood/break2",
+			"kubejs:netherwood/break3",
+			"kubejs:netherwood/break4"
+        ],
+        "subtitle": "Block broken"
+    },
+	"sound.netherwood.place": {
+        "sounds": [
+            "kubejs:netherwood/break1",
+			"kubejs:netherwood/break2",
+			"kubejs:netherwood/break3",
+			"kubejs:netherwood/break4"
+        ],
+        "subtitle": "Block placed"
+    },
+	"sound.netherwood.fall": {
+        "sounds": [
+            "kubejs:netherwood/hit1",
+			"kubejs:netherwood/hit2",
+			"kubejs:netherwood/hit3",
+			"kubejs:netherwood/hit4",
+			"kubejs:netherwood/hit5"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.netherwood.step": {
+        "sounds": [
+            "kubejs:netherwood/hit1",
+			"kubejs:netherwood/hit2",
+			"kubejs:netherwood/hit3",
+			"kubejs:netherwood/hit4",
+			"kubejs:netherwood/hit5"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.netherwood.hit": {
+        "sounds": [
+            "kubejs:netherwood/hit1",
+			"kubejs:netherwood/hit2",
+			"kubejs:netherwood/hit3",
+			"kubejs:netherwood/hit4",
+			"kubejs:netherwood/hit5"
+        ],
+        "subtitle": "Block breaking"
+    },
+	"sound.bamboowood.break": {
+        "sounds": [
+            "kubejs:bamboowood/break1",
+			"kubejs:bamboowood/break2",
+			"kubejs:bamboowood/break3",
+			"kubejs:bamboowood/break4",
+			"kubejs:bamboowood/break5"
+        ],
+        "subtitle": "Block broken"
+    },
+	"sound.bamboowood.place": {
+        "sounds": [
+            "kubejs:bamboowood/break1",
+			"kubejs:bamboowood/break2",
+			"kubejs:bamboowood/break3",
+			"kubejs:bamboowood/break4",
+			"kubejs:bamboowood/break5"
+        ],
+        "subtitle": "Block placed"
+    },
+	"sound.bamboowood.fall": {
+        "sounds": [
+            "kubejs:bamboowood/hit1",
+			"kubejs:bamboowood/hit2",
+			"kubejs:bamboowood/hit3",
+			"kubejs:bamboowood/hit4",
+			"kubejs:bamboowood/hit5",
+			"kubejs:bamboowood/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.bamboowood.step": {
+        "sounds": [
+            "kubejs:bamboowood/hit1",
+			"kubejs:bamboowood/hit2",
+			"kubejs:bamboowood/hit3",
+			"kubejs:bamboowood/hit4",
+			"kubejs:bamboowood/hit5",
+			"kubejs:bamboowood/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.bamboowood.hit": {
+        "sounds": [
+            "kubejs:bamboowood/hit1",
+			"kubejs:bamboowood/hit2",
+			"kubejs:bamboowood/hit3",
+			"kubejs:bamboowood/hit4",
+			"kubejs:bamboowood/hit5",
+			"kubejs:bamboowood/hit6"
+        ],
+        "subtitle": "Block breaking"
+    },
+	"sound.altwood1.break": {
+        "sounds": [
+            "kubejs:altwood1/break1",
+			"kubejs:altwood1/break2",
+			"kubejs:altwood1/break3",
+			"kubejs:altwood1/break4",
+			"kubejs:altwood1/break5"
+        ],
+        "subtitle": "Block broken"
+    },
+	"sound.altwood1.place": {
+        "sounds": [
+            "kubejs:altwood1/break1",
+			"kubejs:altwood1/break2",
+			"kubejs:altwood1/break3",
+			"kubejs:altwood1/break4",
+			"kubejs:altwood1/break5"
+        ],
+        "subtitle": "Block placed"
+    },
+	"sound.altwood1.fall": {
+        "sounds": [
+            "kubejs:altwood1/hit1",
+			"kubejs:altwood1/hit2",
+			"kubejs:altwood1/hit3",
+			"kubejs:altwood1/hit4",
+			"kubejs:altwood1/hit5",
+			"kubejs:altwood1/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.altwood1.step": {
+        "sounds": [
+            "kubejs:altwood1/hit1",
+			"kubejs:altwood1/hit2",
+			"kubejs:altwood1/hit3",
+			"kubejs:altwood1/hit4",
+			"kubejs:altwood1/hit5",
+			"kubejs:altwood1/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.altwood1.hit": {
+        "sounds": [
+            "kubejs:altwood1/hit1",
+			"kubejs:altwood1/hit2",
+			"kubejs:altwood1/hit3",
+			"kubejs:altwood1/hit4",
+			"kubejs:altwood1/hit5",
+			"kubejs:altwood1/hit6"
+        ],
+        "subtitle": "Block breaking"
+    },
+	"sound.stoneore.break": {
+        "sounds": [
+            "kubejs:stoneore/break1",
+			"kubejs:stoneore/break2",
+			"kubejs:stoneore/break3",
+			"kubejs:stoneore/break4"
+        ],
+        "subtitle": "Block broken"
+    },
+	"sound.stoneore.place": {
+        "sounds": [
+            "kubejs:stoneore/break1",
+			"kubejs:stoneore/break2",
+			"kubejs:stoneore/break3",
+			"kubejs:stoneore/break4"
+        ],
+        "subtitle": "Block placed"
+    },
+	"sound.stoneore.fall": {
+        "sounds": [
+            "kubejs:stoneore/hit1",
+			"kubejs:stoneore/hit2",
+			"kubejs:stoneore/hit3",
+			"kubejs:stoneore/hit4",
+			"kubejs:stoneore/hit5"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.stoneore.step": {
+        "sounds": [
+            "kubejs:stoneore/hit1",
+			"kubejs:stoneore/hit2",
+			"kubejs:stoneore/hit3",
+			"kubejs:stoneore/hit4",
+			"kubejs:stoneore/hit5"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.stoneore.hit": {
+        "sounds": [
+            "kubejs:stoneore/hit1",
+			"kubejs:stoneore/hit2",
+			"kubejs:stoneore/hit3",
+			"kubejs:stoneore/hit4",
+			"kubejs:stoneore/hit5"
+        ],
+        "subtitle": "Block breaking"
+    },
+	"sound.blackstone.break": {
+        "sounds": [
+            "kubejs:blackstone/break1",
+			"kubejs:blackstone/break2",
+			"kubejs:blackstone/break3",
+			"kubejs:blackstone/break4"
+        ],
+        "subtitle": "Block broken"
+    },
+	"sound.blackstone.place": {
+        "sounds": [
+            "kubejs:blackstone/break1",
+			"kubejs:blackstone/break2",
+			"kubejs:blackstone/break3",
+			"kubejs:blackstone/break4"
+        ],
+        "subtitle": "Block placed"
+    },
+	"sound.blackstone.fall": {
+        "sounds": [
+            "kubejs:blackstone/hit1",
+			"kubejs:blackstone/hit2",
+			"kubejs:blackstone/hit3",
+			"kubejs:blackstone/hit4",
+			"kubejs:blackstone/hit5",
+			"kubejs:blackstone/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.blackstone.step": {
+        "sounds": [
+            "kubejs:blackstone/hit1",
+			"kubejs:blackstone/hit2",
+			"kubejs:blackstone/hit3",
+			"kubejs:blackstone/hit4",
+			"kubejs:blackstone/hit5",
+			"kubejs:blackstone/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.blackstone.hit": {
+        "sounds": [
+            "kubejs:blackstone/hit1",
+			"kubejs:blackstone/hit2",
+			"kubejs:blackstone/hit3",
+			"kubejs:blackstone/hit4",
+			"kubejs:blackstone/hit5",
+			"kubejs:blackstone/hit6"
+        ],
+        "subtitle": "Block breaking"
+    },
+	"sound.squishy.break": {
+        "sounds": [
+            "kubejs:squishy/break1",
+			"kubejs:squishy/break2",
+			"kubejs:squishy/break3",
+			"kubejs:squishy/break4",
+			"kubejs:squishy/break5"
+        ],
+        "subtitle": "Block broken"
+    },
+	"sound.squishy.place": {
+        "sounds": [
+            "kubejs:squishy/break1",
+			"kubejs:squishy/break2",
+			"kubejs:squishy/break3",
+			"kubejs:squishy/break4",
+			"kubejs:squishy/break5"
+        ],
+        "subtitle": "Block placed"
+    },
+	"sound.squishy.fall": {
+        "sounds": [
+            "kubejs:squishy/hit1",
+			"kubejs:squishy/hit2",
+			"kubejs:squishy/hit3",
+			"kubejs:squishy/hit4"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.squishy.step": {
+        "sounds": [
+            "kubejs:squishy/hit1",
+			"kubejs:squishy/hit2",
+			"kubejs:squishy/hit3",
+			"kubejs:squishy/hit4"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.squishy.hit": {
+        "sounds": [
+            "kubejs:squishy/hit1",
+			"kubejs:squishy/hit2",
+			"kubejs:squishy/hit3",
+			"kubejs:squishy/hit4"
+        ],
+        "subtitle": "Block breaking"
+    },
+	"sound.stickywood.break": {
+        "sounds": [
+            "kubejs:stickywood/break1",
+			"kubejs:stickywood/break2",
+			"kubejs:stickywood/break3",
+			"kubejs:stickywood/break4",
+			"kubejs:stickywood/break5"
+        ],
+        "subtitle": "Block broken"
+    },
+	"sound.stickywood.place": {
+        "sounds": [
+            "kubejs:stickywood/break1",
+			"kubejs:stickywood/break2",
+			"kubejs:stickywood/break3",
+			"kubejs:stickywood/break4",
+			"kubejs:stickywood/break5"
+        ],
+        "subtitle": "Block placed"
+    },
+	"sound.stickywood.fall": {
+        "sounds": [
+            "kubejs:stickywood/hit1",
+			"kubejs:stickywood/hit2",
+			"kubejs:stickywood/hit3",
+			"kubejs:stickywood/hit4",
+			"kubejs:stickywood/hit5",
+			"kubejs:stickywood/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.stickywood.step": {
+        "sounds": [
+            "kubejs:stickywood/hit1",
+			"kubejs:stickywood/hit2",
+			"kubejs:stickywood/hit3",
+			"kubejs:stickywood/hit4",
+			"kubejs:stickywood/hit5",
+			"kubejs:stickywood/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.stickywood.hit": {
+        "sounds": [
+            "kubejs:stickywood/hit1",
+			"kubejs:stickywood/hit2",
+			"kubejs:stickywood/hit3",
+			"kubejs:stickywood/hit4",
+			"kubejs:stickywood/hit5",
+			"kubejs:stickywood/hit6"
+        ],
+        "subtitle": "Block breaking"
+    },
+	"sound.clothwood.break": {
+        "sounds": [
+            "kubejs:clothwood/break1",
+			"kubejs:clothwood/break2",
+			"kubejs:clothwood/break3",
+			"kubejs:clothwood/break4"
+        ],
+        "subtitle": "Block broken"
+    },
+	"sound.clothwood.place": {
+        "sounds": [
+            "kubejs:clothwood/break1",
+			"kubejs:clothwood/break2",
+			"kubejs:clothwood/break3",
+			"kubejs:clothwood/break4"
+        ],
+        "subtitle": "Block placed"
+    },
+	"sound.clothwood.fall": {
+        "sounds": [
+            "kubejs:clothwood/hit1",
+			"kubejs:clothwood/hit2",
+			"kubejs:clothwood/hit3",
+			"kubejs:clothwood/hit4",
+			"kubejs:clothwood/hit5",
+			"kubejs:clothwood/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.clothwood.step": {
+        "sounds": [
+            "kubejs:clothwood/hit1",
+			"kubejs:clothwood/hit2",
+			"kubejs:clothwood/hit3",
+			"kubejs:clothwood/hit4",
+			"kubejs:clothwood/hit5",
+			"kubejs:clothwood/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.clothwood.hit": {
+        "sounds": [
+            "kubejs:clothwood/hit1",
+			"kubejs:clothwood/hit2",
+			"kubejs:clothwood/hit3",
+			"kubejs:clothwood/hit4",
+			"kubejs:clothwood/hit5",
+			"kubejs:clothwood/hit6"
+        ],
+        "subtitle": "Block breaking"
+    },
+	"sound.glasswood.break": {
+        "sounds": [
+            "kubejs:glasswood/break1",
+			"kubejs:glasswood/break2",
+			"kubejs:glasswood/break3",
+			"kubejs:glasswood/break4"
+        ],
+        "subtitle": "Block broken"
+    },
+	"sound.glasswood.place": {
+        "sounds": [
+            "kubejs:glasswood/place1",
+			"kubejs:glasswood/place2",
+			"kubejs:glasswood/place3",
+			"kubejs:glasswood/place4"
+        ],
+        "subtitle": "Block placed"
+    },
+	"sound.glasswood.fall": {
+        "sounds": [
+            "kubejs:glasswood/hit1",
+			"kubejs:glasswood/hit2",
+			"kubejs:glasswood/hit3",
+			"kubejs:glasswood/hit4",
+			"kubejs:glasswood/hit5",
+			"kubejs:glasswood/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.glasswood.step": {
+        "sounds": [
+            "kubejs:glasswood/hit1",
+			"kubejs:glasswood/hit2",
+			"kubejs:glasswood/hit3",
+			"kubejs:glasswood/hit4",
+			"kubejs:glasswood/hit5",
+			"kubejs:glasswood/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.glasswood.hit": {
+        "sounds": [
+            "kubejs:glasswood/hit1",
+			"kubejs:glasswood/hit2",
+			"kubejs:glasswood/hit3",
+			"kubejs:glasswood/hit4",
+			"kubejs:glasswood/hit5",
+			"kubejs:glasswood/hit6"
+        ],
+        "subtitle": "Block breaking"
+    },
+	"sound.netherglasswood.break": {
+        "sounds": [
+            "kubejs:netherglasswood/break1",
+			"kubejs:netherglasswood/break2",
+			"kubejs:netherglasswood/break3",
+			"kubejs:netherglasswood/break4"
+        ],
+        "subtitle": "Block broken"
+    },
+	"sound.netherglasswood.place": {
+        "sounds": [
+            "kubejs:netherglasswood/place1",
+			"kubejs:netherglasswood/place2",
+			"kubejs:netherglasswood/place3",
+			"kubejs:netherglasswood/place4"
+        ],
+        "subtitle": "Block placed"
+    },
+	"sound.netherglasswood.fall": {
+        "sounds": [
+            "kubejs:netherglasswood/hit1",
+			"kubejs:netherglasswood/hit2",
+			"kubejs:netherglasswood/hit3",
+			"kubejs:netherglasswood/hit4",
+			"kubejs:netherglasswood/hit5",
+			"kubejs:netherglasswood/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.netherglasswood.step": {
+        "sounds": [
+            "kubejs:netherglasswood/hit1",
+			"kubejs:netherglasswood/hit2",
+			"kubejs:netherglasswood/hit3",
+			"kubejs:netherglasswood/hit4",
+			"kubejs:netherglasswood/hit5",
+			"kubejs:netherglasswood/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.netherglasswood.hit": {
+        "sounds": [
+            "kubejs:netherglasswood/hit1",
+			"kubejs:netherglasswood/hit2",
+			"kubejs:netherglasswood/hit3",
+			"kubejs:netherglasswood/hit4",
+			"kubejs:netherglasswood/hit5",
+			"kubejs:netherglasswood/hit6"
+        ],
+        "subtitle": "Block breaking"
+    },
+	"sound.altglasswood1.break": {
+        "sounds": [
+            "kubejs:altglasswood1/break1",
+			"kubejs:altglasswood1/break2",
+			"kubejs:altglasswood1/break3",
+			"kubejs:altglasswood1/break4",
+			"kubejs:altglasswood1/break5"
+        ],
+        "subtitle": "Block broken"
+    },
+	"sound.altglasswood1.place": {
+        "sounds": [
+            "kubejs:altglasswood1/place1",
+			"kubejs:altglasswood1/place2",
+			"kubejs:altglasswood1/place3",
+			"kubejs:altglasswood1/place4",
+			"kubejs:altglasswood1/place5"
+        ],
+        "subtitle": "Block placed"
+    },
+	"sound.altglasswood1.fall": {
+        "sounds": [
+            "kubejs:altglasswood1/hit1",
+			"kubejs:altglasswood1/hit2",
+			"kubejs:altglasswood1/hit3",
+			"kubejs:altglasswood1/hit4",
+			"kubejs:altglasswood1/hit5",
+			"kubejs:altglasswood1/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.altglasswood1.step": {
+        "sounds": [
+            "kubejs:altglasswood1/hit1",
+			"kubejs:altglasswood1/hit2",
+			"kubejs:altglasswood1/hit3",
+			"kubejs:altglasswood1/hit4",
+			"kubejs:altglasswood1/hit5",
+			"kubejs:altglasswood1/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.altglasswood1.hit": {
+        "sounds": [
+            "kubejs:altglasswood1/hit1",
+			"kubejs:altglasswood1/hit2",
+			"kubejs:altglasswood1/hit3",
+			"kubejs:altglasswood1/hit4",
+			"kubejs:altglasswood1/hit5",
+			"kubejs:altglasswood1/hit6"
+        ],
+        "subtitle": "Block breaking"
+    },
+	"sound.bambooglasswood.break": {
+        "sounds": [
+            "kubejs:bambooglasswood/break1",
+			"kubejs:bambooglasswood/break2",
+			"kubejs:bambooglasswood/break3",
+			"kubejs:bambooglasswood/break4",
+			"kubejs:bambooglasswood/break5"
+        ],
+        "subtitle": "Block broken"
+    },
+	"sound.bambooglasswood.place": {
+        "sounds": [
+            "kubejs:bambooglasswood/place1",
+			"kubejs:bambooglasswood/place2",
+			"kubejs:bambooglasswood/place3",
+			"kubejs:bambooglasswood/place4",
+			"kubejs:bambooglasswood/place5"
+        ],
+        "subtitle": "Block placed"
+    },
+	"sound.bambooglasswood.fall": {
+        "sounds": [
+            "kubejs:bambooglasswood/hit1",
+			"kubejs:bambooglasswood/hit2",
+			"kubejs:bambooglasswood/hit3",
+			"kubejs:bambooglasswood/hit4",
+			"kubejs:bambooglasswood/hit5",
+			"kubejs:bambooglasswood/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.bambooglasswood.step": {
+        "sounds": [
+            "kubejs:bambooglasswood/hit1",
+			"kubejs:bambooglasswood/hit2",
+			"kubejs:bambooglasswood/hit3",
+			"kubejs:bambooglasswood/hit4",
+			"kubejs:bambooglasswood/hit5",
+			"kubejs:bambooglasswood/hit6"
+        ],
+        "subtitle": "Footsteps"
+    },
+	"sound.bambooglasswood.hit": {
+        "sounds": [
+            "kubejs:bambooglasswood/hit1",
+			"kubejs:bambooglasswood/hit2",
+			"kubejs:bambooglasswood/hit3",
+			"kubejs:bambooglasswood/hit4",
+			"kubejs:bambooglasswood/hit5",
+			"kubejs:bambooglasswood/hit6"
+        ],
+        "subtitle": "Block breaking"
+    }
+}

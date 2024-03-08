@@ -1,0 +1,13 @@
+name = "Fog Looks Good Now"
+filename = "betterfog-1.19.2-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e31138bbf58bdc4164e21c312d22ffe21f85a81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4600099
+project-id = 667872

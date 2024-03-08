@@ -1,0 +1,70 @@
+{
+  "parent": "raspberryflavoured:farming_root",
+  "criteria": {
+    "campfire": {
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:flint_and_steel",
+			"minecraft:fire_charge"
+          ]
+        },
+        "location": {
+          "block": {
+            "blocks": [
+              "minecraft:campfire"
+            ],
+            "state": {
+              "lit": "true"
+            }
+          }
+        }
+      },
+      "trigger": "minecraft:item_used_on_block"
+    },
+	"soul_campfire": {
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:flint_and_steel",
+			"minecraft:fire_charge"
+          ]
+        },
+        "location": {
+          "block": {
+            "blocks": [
+              "minecraft:soul_campfire"
+            ],
+            "state": {
+              "lit": "true"
+            }
+          }
+        }
+      },
+      "trigger": "minecraft:item_used_on_block"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "color": "#C44E00",
+      "text": "Make some campfire kindling and light it with a fire striker to cook food or pacify bees - you can also burn tree bark on a campfire to make charcoal lumps"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:campfire"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "F-F-Fire!"
+    }
+  },
+  "requirements": [
+    [
+      "campfire",
+      "soul_campfire"
+    ]
+  ]
+}
+    

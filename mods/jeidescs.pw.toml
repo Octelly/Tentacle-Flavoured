@@ -1,0 +1,13 @@
+name = "Just Enough Item Descriptions"
+filename = "jeidescs-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16e1a79a83cb7b432636f0272a0167e55349e7dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4119954
+project-id = 714214

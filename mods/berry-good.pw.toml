@@ -1,0 +1,13 @@
+name = "Berry Good"
+filename = "berry_good-1.19.2-6.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d9ef71e729bdfa9719977497c23b2ac6d90209e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4023072
+project-id = 355589

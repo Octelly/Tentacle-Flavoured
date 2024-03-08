@@ -1,0 +1,13 @@
+name = "Auditory"
+filename = "auditory-0.0.5-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8687d2f6dcc5ad6ded448a98c403935774574d78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4518954
+project-id = 636199

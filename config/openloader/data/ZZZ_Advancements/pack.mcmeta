@@ -1,0 +1,38 @@
+{
+    "pack": {
+        "pack_format": 10,
+        "description": [{"text":"RF custom advancements","color":"yellow"}]
+    },
+    "filter": {
+        "block": [
+            {
+                "namespace": "minecraft",
+                "path": "advancements/.*"
+            },
+			{
+                "namespace": "farmersdelight",
+                "path": "advancements/.*"
+            },
+			{
+                "namespace": "create",
+                "path": "advancements/.*"
+            },
+			{
+                "namespace": "betterdungeons",
+                "path": "advancements/.*"
+            },
+			{
+                "namespace": "architects_palette",
+                "path": "advancements/.*"
+            },
+			{
+                "namespace": "create_dd",
+                "path": "advancements/.*"
+            },
+			{
+                "namespace": "create_connected",
+                "path": "advancements/.*"
+            }
+        ]
+    }
+}

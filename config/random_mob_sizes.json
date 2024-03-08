@@ -1,0 +1,14 @@
+{
+	"keep_scaling_on_conversion": true,
+	"upgrade_aquatic:flare": {
+		"type": "uniform",
+		"min_scaling": 1.0,
+		"max_scaling": 1.25
+	},
+	"minecraft:phantom": {
+		"type": "uniform",
+		"min_scaling": 1.0,
+		"max_scaling": 1.25
+	},
+	"minecraft:rabbit": 1.1
+}

@@ -1,0 +1,31 @@
+{
+  "type": "brewinandchewin:fermenting",
+  "container": {
+    "item": "brewinandchewin:tankard"
+  },
+  "experience": 4,
+  "fermentingtime": 6000,
+  "fluiditem": {
+    "item": "brewinandchewin:salty_folly"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:wither_rose"
+    },
+    {
+      "item": "minecraft:ink_sac"
+    },
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "architects_palette:withered_bone"
+    }
+  ],
+  "recipe_book_tab": "drinks",
+  "result": {
+	"count": 2,
+    "item": "brewinandchewin:withering_dross"
+  },
+  "temperature": 5
+}

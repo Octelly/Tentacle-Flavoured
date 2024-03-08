@@ -1,0 +1,39 @@
+{
+  "type": "brewinandchewin:fermenting",
+  "container": {
+    "item": "brewinandchewin:tankard"
+  },
+  "experience": 0.6,
+  "fermentingtime": 6000,
+  "fluiditem": {
+    "item": "kubejs:cactus_juice"
+  },
+  "ingredients": [
+    {
+      "item": "ecologics:cooked_prickly_pear"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    [
+	{
+      "item": "culturaldelights:corn_cob"
+    },
+	{
+      "item": "culturaldelights:corn_kernels"
+    },
+	{
+      "item": "kubejs:corn_flour"
+    }
+	]
+  ],
+  "recipe_book_tab": "drinks",
+  "result": {
+	"count": 2,
+    "item": "kubejs:prickly_gin"
+  },
+  "temperature": 4
+}

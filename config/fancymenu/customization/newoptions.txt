@@ -1,0 +1,179 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.OptionsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = 
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=505154%
+  orientation = element
+  orientation_element = vanillabtn:400334
+  x = 105
+  action = movebutton
+  y = -154
+}
+
+customization {
+  identifier = %id=505154%
+  action = setbuttondescription
+  description = Peaceful: No hunger, no hostile mobs. %n%Health quickly and constantly regenerates.%n%%n%Easy: Slow hunger, hostile mobs%n%become neutral and deal half damage.%n%%n%Normal: Average, balanced experience.%n%%n%Hard: Hunger depletes quicker and %n%starving will lead to death. %n%Hostile mobs deal extra damage, %n%zombies will break down doors %n%and spiders will spawn with potion effects.
+}
+
+customization {
+  identifier = %id=345232%
+  orientation = element
+  orientation_element = vanillabtn:400334
+  x = -55
+  action = movebutton
+  y = -98
+}
+
+customization {
+  identifier = %id=345280%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345280%
+  orientation = element
+  orientation_element = vanillabtn:400334
+  x = -55
+  action = movebutton
+  y = -50
+}
+
+customization {
+  identifier = %id=345280%
+  action = setbuttondescription
+  description = Warning: adding/removing resource packs is not recommended
+}
+
+customization {
+  identifier = %id=345154%
+  orientation = element
+  orientation_element = vanillabtn:400334
+  x = -55
+  action = movebutton
+  y = -154
+}
+
+customization {
+  identifier = %id=505232%
+  orientation = element
+  orientation_element = vanillabtn:400334
+  x = 0
+  action = movebutton
+  y = -126
+}
+
+customization {
+  identifier = %id=505232%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=505280%
+  orientation = element
+  orientation_element = vanillabtn:400334
+  x = 0
+  action = movebutton
+  y = -46
+}
+
+customization {
+  identifier = %id=505280%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400334%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 77
+}
+
+customization {
+  identifier = %id=635154%
+  orientation = element
+  orientation_element = vanillabtn:400334
+  x = 235
+  action = movebutton
+  y = -154
+}
+
+customization {
+  identifier = %id=345208%
+  orientation = element
+  orientation_element = vanillabtn:400334
+  x = -55
+  action = movebutton
+  y = -74
+}
+
+customization {
+  identifier = %id=345256%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345256%
+  orientation = element
+  orientation_element = vanillabtn:400334
+  x = -55
+  action = movebutton
+  y = -50
+}
+
+customization {
+  identifier = %id=505208%
+  orientation = element
+  orientation_element = vanillabtn:400334
+  x = 105
+  action = movebutton
+  y = -98
+}
+
+customization {
+  identifier = %id=505256%
+  orientation = element
+  orientation_element = vanillabtn:400334
+  x = 105
+  action = movebutton
+  y = -74
+}
+
+customization {
+  orientation = element
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Options Menu
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  orientation_element = vanillabtn:400334
+  x = 0
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = fc4823c3-bd6e-4153-bc52-cf1bdf1f4ae41688232587067
+  y = -180
+  alignment = centered
+  height = 40
+}
+

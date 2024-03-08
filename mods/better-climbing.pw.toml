@@ -1,0 +1,13 @@
+name = "Better Climbing"
+filename = "better_climbing-forge-2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dff14afd0bf69a5740f45ec1eccf00570c7496d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4589729
+project-id = 655619

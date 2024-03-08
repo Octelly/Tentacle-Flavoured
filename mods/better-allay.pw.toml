@@ -1,0 +1,13 @@
+name = "Better Allay [FABRIC/FORGE]"
+filename = "betterallay-[FORGE]-1.4.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6064f6b7b91576d121aaed97e6f3e02e05bfc289"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4522310
+project-id = 709597

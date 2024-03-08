@@ -1,0 +1,13 @@
+name = "ImmediatelyFast Reforged (Unofficial) - DISCONTINUED"
+filename = "ImmediatelyFastReforged-1.19.2-1.1.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "774cc61168977910c7275285a024e5876e5b4c1d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4486026
+project-id = 839581

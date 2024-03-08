@@ -1,0 +1,147 @@
+
+[types]
+
+	[types.leaves_type]
+
+		[types.leaves_type.upgrade_aquatic]
+			river = true
+
+		[types.leaves_type.atmospheric]
+			rosewood = true
+			morado = true
+			flowering_morado = true
+			yucca = true
+			kousa = true
+			aspen = true
+			grimwood = true
+
+		[types.leaves_type.ecologics]
+			coconut = true
+			walnut = true
+
+		[types.leaves_type.autumnity]
+			maple = true
+			yellow_maple = true
+			orange_maple = true
+			red_maple = true
+
+		[types.leaves_type.quark]
+			blue_blossom = false
+			lavender_blossom = false
+			orange_blossom = false
+			pink_blossom = false
+			yellow_blossom = false
+			red_blossom = false
+			ancient = false
+
+		[types.leaves_type.culturaldelights]
+			avocado = true
+			fruiting_avocado = false
+
+		[types.leaves_type.architects_palette]
+			twisted = true
+
+		[types.leaves_type.windswept]
+			holly = false
+			chestnut = true
+
+		[types.leaves_type.environmental]
+			willow = true
+			cherry = true
+
+	[types.wood_type]
+
+		[types.wood_type.quark]
+			bamboo = true
+			azalea = false
+			blossom = false
+			ancient = false
+
+		[types.wood_type.ecologics]
+			flowering_azalea = false
+			azalea = true
+			coconut = true
+			walnut = false
+
+		[types.wood_type.upgrade_aquatic]
+			driftwood = true
+			river = true
+
+		[types.wood_type.atmospheric]
+			rosewood = true
+			morado = true
+			yucca = true
+			kousa = false
+			aspen = true
+			grimwood = false
+
+		[types.wood_type.autumnity]
+			maple = true
+
+		[types.wood_type.architects_palette]
+			twisted = true
+
+		[types.wood_type.windswept]
+			holly = false
+			chestnut = true
+
+		[types.wood_type.environmental]
+			willow = true
+			cherry = true
+			wisteria = true
+
+[entries]
+
+	[entries.leaves_type]
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = false
+
+		[entries.leaves_type.woodworks]
+			leaf_pile = true
+
+	[entries.wood_type]
+
+		[entries.wood_type.woodworks]
+			bookshelf = false
+			boards = true
+			ladder = false
+			beehive = true
+
+		[entries.wood_type.quark]
+			vertical_planks = false
+			post = true
+			trapped_chest = true
+			bookshelf = true
+			chest = true
+			stripped_post = true
+			ladder = true
+			hollow_log = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.another_furniture]
+			table = true
+			shelf = true
+			drawer = true
+			shutter = true
+			planter_box = false
+			bench = true
+			chair = true
+
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
+
+		[entries.wood_type.architects_palette]
+			board_stairs = true
+			railing = true
+			board_slab = true
+			boards = true
+			board_wall = true
+
+		[entries.wood_type.twigs]
+			table = false
+

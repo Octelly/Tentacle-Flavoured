@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:raw_beef",
+    "#forge:raw_chicken",
+    "#forge:raw_mutton",
+    "#forge:raw_pork",
+    "minecraft:rotten_flesh",
+    "minecraft:rabbit",
+	"environmental:venison",
+	"abnormals_delight:venison_shanks",
+	"environmental:duck",
+	"abnormals_delight:duck_fillet",
+	"autumnity:turkey_piece",
+	"nethersdelight:hoglin_loin"
+	]
+}

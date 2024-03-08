@@ -1,0 +1,13 @@
+name = "Better Mods Button [Forge]"
+filename = "BetterModsButton-v4.2.1-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "459fb72d88bb7ca751472a108fc632745ea67fba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3963202
+project-id = 541584

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "raspberry_flavoured:raw_vegetables"
+    },
+	{
+      "tag": "raspberry_flavoured:raw_vegetables"
+    },
+    {
+      "tag": "culturaldelights:avocados"
+    },
+	{
+      "tag": "culturaldelights:avocados"
+    },
+    {
+      "tag": "culturaldelights:corn_or_kernels"
+    },
+    {
+      "tag": "culturaldelights:corn_or_kernels"
+    },
+    {
+      "tag": "culturaldelights:corn_or_kernels"
+    },
+	{
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "culturaldelights:hearty_salad"
+  }
+}
