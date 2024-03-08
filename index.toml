@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/static.yml"
+hash = "8c9d8caa5bbaf88b4b4ac03986521ed222a41fee37847ced494f99eacee71cc7"
+
+[[files]]
 file = "README.md"
 hash = "bd4ebe810a8f447ee1a6fd1f951bef0e92cddedb06441a157be20575f539bdda"
 
@@ -103,10 +107,6 @@ hash = "288e5d0eb5950164ca081496b53033ce4f78de110ad20a500c32c42c1c1e0f31"
 [[files]]
 file = "config/betterdungeons-forge-1_19.toml"
 hash = "67e7e94693c7ca0945fe1b7e08639cdf4faad9a8e1eec2b029bf414539113753"
-
-[[files]]
-file = "config/betterf3.toml"
-hash = "67a63420eb64ed545a10d6228175d2068b2a7249a6bd3df78d4cae48e52d32f7"
 
 [[files]]
 file = "config/betterfortresses-forge-1_19.toml"
@@ -353,14 +353,6 @@ file = "config/effective_fg-client.toml"
 hash = "c86c21683479e7af6df4c70d57f61018e9116ed347ec55df1926d122c830d891"
 
 [[files]]
-file = "config/embeddium-mixins.properties"
-hash = "702bc50192ef907ac24e16ce033710cde3e3a16497b5e31d317f9ef12775d51f"
-
-[[files]]
-file = "config/embeddium-options.json"
-hash = "c9e5c3958cf26bffb239ffe8ff27849a95f8c278f2c9cc2a929fe54fdd1d9ce8"
-
-[[files]]
 file = "config/enchdesc.json"
 hash = "b757a8a1ee8965736ef1172ec4f802b084bdb752088eaf1c035d804085bb62fa"
 
@@ -547,10 +539,6 @@ hash = "fab938297f4226f9e13a5164ffdb94ae1e0e572d1fab3d5d13e4cfaa0a44f628"
 [[files]]
 file = "config/fishermens_trap-common.toml"
 hash = "227098b2e6b7e88b962cfb836243411b0298d3d83aeb15489e50f50bf0450920"
-
-[[files]]
-file = "config/flywheel-client.toml"
-hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
 
 [[files]]
 file = "config/fml.toml"
@@ -9510,10 +9498,6 @@ file = "config/rrls.toml"
 hash = "622e98cf832506aa24634e302984536fd06be31fe29e9621317776589f995e56"
 
 [[files]]
-file = "config/rubidium_extras.toml"
-hash = "5a6d577447fdb5616bee4b7c216c279dcb6528e5e35e5daac96af3adfbf242b9"
-
-[[files]]
 file = "config/savage_and_ravage-client.toml"
 hash = "e441a4d0d6f8ca65617c56691c044351fd49da819a39b251e8389d1a9be7e990"
 
@@ -12311,7 +12295,7 @@ hash = "51b3659a3dc31bfc1e642da11953d17ff341461a121aa3fffdef306f7fede7a9"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "02c5f7d375d00fb303bec68a75ef479035930efc685c41119551f2be2c7e1504"
+hash = "736d248d37cf3ecadc43464b18e98c2b8f174f1db5da20ca908392ed96344ec2"
 
 [[files]]
 file = "kubejs/config/common.properties"
