@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/static.yml"
-hash = "8c9d8caa5bbaf88b4b4ac03986521ed222a41fee37847ced494f99eacee71cc7"
-
-[[files]]
-file = "README.md"
-hash = "bd4ebe810a8f447ee1a6fd1f951bef0e92cddedb06441a157be20575f539bdda"
-
-[[files]]
 file = "config/FFBB-common.toml"
 hash = "189ab5fb5d4ed3a17236a137d7a00df3d61e6d3a8c45e3cee4c6b40e810f751b"
 
