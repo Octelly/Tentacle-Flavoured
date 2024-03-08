@@ -1,12 +1,12 @@
-name = "Raspberry Flavoured"
-author = "raspmary"
-version = "2.1"
+name = "Tentacle Flavoured"
+author = "Octelly"
+version = "1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "84cdb64951a31f64dc7d30baa5e7f383b33e70b491f9b3fc24752e0c8456e255"
+hash = "d5de71681d70286f46948b888b70adbc93bea3efb7bd348b6ee79aaf53e8fca3"
 
 [versions]
 forge = "43.3.7"

@@ -214,6 +214,7 @@ customization {
 
 customization {
   orientation = element
+  hidden = true
   restartbackgroundanimations = true
   buttonaction = opengui;rfchangelog%btnaction_splitter_fm%
   backgroundhovered = config/fancymenu/fancymenu_assets/changelogbuttonhover.png
@@ -232,6 +233,7 @@ customization {
 
 customization {
   orientation = element
+  hidden = true
   restartbackgroundanimations = true
   buttonaction = opengui;rfcredits%btnaction_splitter_fm%
   backgroundhovered = config/fancymenu/fancymenu_assets/creditsbuttonhover.png
@@ -262,6 +264,7 @@ customization {
 
 customization {
   orientation = element
+  hidden = true
   restartbackgroundanimations = true
   buttonaction = openlink;https://discord.gg/jxNe26WNYh%btnaction_splitter_fm%
   backgroundhovered = config/fancymenu/fancymenu_assets/discordbuttonhover.png
@@ -279,7 +282,7 @@ customization {
 }
 
 customization {
-  path = config/fancymenu/fancymenu_assets/rflogonewest_outline.png
+  path = config/fancymenu/fancymenu_assets/tentacle_flavoured.png
   orientation = mid-centered
   x = -135
   width = 270

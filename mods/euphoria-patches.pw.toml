@@ -1,0 +1,18 @@
+name = "Euphoria Patches"
+filename = "EuphoriaPatcher-0.3.0-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4H6sumDB/versions/3d9gByqp/EuphoriaPatcher-0.3.0-forge.jar"
+hash-format = "sha1"
+hash = "0e7fe92767d397fc724b130ac9ac5036d2626d34"
+
+[update]
+[update.modrinth]
+mod-id = "4H6sumDB"
+version = "3d9gByqp"
+
+[option]
+optional = true
+default = false
+description = "Modded addon for Complementary shaders"

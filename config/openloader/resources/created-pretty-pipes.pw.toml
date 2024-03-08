@@ -1,0 +1,13 @@
+name = "Created Pretty Pipes"
+filename = "Created+Pretty+Pipes1.0+FIXED.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oC4pZTdw/versions/O0rnFr9u/Created%2BPretty%2BPipes1.0%2BFIXED.zip"
+hash-format = "sha1"
+hash = "6d5ac607061fa5aedea571ec0c3ae842327dbf7c"
+
+[update]
+[update.modrinth]
+mod-id = "oC4pZTdw"
+version = "O0rnFr9u"

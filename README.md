@@ -1,3 +1,3 @@
-# Raspberry Flavoured (mirror)
+# Tentacle Flavoured
 
-[CurseForge](https://www.curseforge.com/minecraft/modpacks/raspberry-flavoured)
+gaming

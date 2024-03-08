@@ -49,7 +49,7 @@ customization {
 }
 
 customization {
-  path = config/fancymenu/fancymenu_assets/teamraspberry.png
+  path = config/fancymenu/fancymenu_assets/octelly.png
   orientation = mid-centered
   x = -161
   width = 322

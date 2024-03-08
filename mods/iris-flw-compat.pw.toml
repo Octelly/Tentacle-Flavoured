@@ -1,0 +1,18 @@
+name = "Iris & Oculus Flywheel Compat"
+filename = "oculus-flywheel-compat-1.19.2-0.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ndHYMY2K/versions/XfTsz2M5/oculus-flywheel-compat-1.19.2-0.2.1.jar"
+hash-format = "sha1"
+hash = "468c45afafa597c07d64b7cffb0ada42d991b84c"
+
+[update]
+[update.modrinth]
+mod-id = "ndHYMY2K"
+version = "XfTsz2M5"
+
+[option]
+optional = true
+default = false
+description = "Better shader performance around Create machines"

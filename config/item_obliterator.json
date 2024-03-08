@@ -1122,7 +1122,8 @@
     "culturaldelights:avocado_log",
     "culturaldelights:avocado_wood",
     "neapolitan:beanstalk",
-    "neapolitan:beanstalk_thorns"
+    "neapolitan:beanstalk_thorns",
+    "decorative_blocks:rocky_dirt"
   ],
   "only_disable_interactions": [
     "//Items here will not be able to be right-clicked (Interact)",

@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4085139
 project-id = 493280
+
+[option]
+optional = true
+default = true
+description = "Dynamic lights mod, not fully disableable in-game. Not recommended with shaders or on lower-end machines."

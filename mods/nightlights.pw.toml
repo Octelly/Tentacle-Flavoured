@@ -1,0 +1,13 @@
+name = "Night Lights"
+filename = "nightlights_1.19.2_1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s7pMb898/versions/IPXyfFRK/nightlights_1.19.2_1.1.jar"
+hash-format = "sha1"
+hash = "0bb942b9eda9f9f2e3d4cd04048541aa1434086a"
+
+[update]
+[update.modrinth]
+mod-id = "s7pMb898"
+version = "IPXyfFRK"

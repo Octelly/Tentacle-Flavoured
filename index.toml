@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "bd4ebe810a8f447ee1a6fd1f951bef0e92cddedb06441a157be20575f539bdda"
+
+[[files]]
 file = "config/FFBB-common.toml"
 hash = "189ab5fb5d4ed3a17236a137d7a00df3d61e6d3a8c45e3cee4c6b40e810f751b"
 
@@ -357,10 +361,6 @@ file = "config/embeddium-options.json"
 hash = "c9e5c3958cf26bffb239ffe8ff27849a95f8c278f2c9cc2a929fe54fdd1d9ce8"
 
 [[files]]
-file = "config/emi.css"
-hash = "a96ef9f6199f4754309d64cb6297d3d72339b4d8d9df0929eb4726b6e8dc624e"
-
-[[files]]
 file = "config/enchdesc.json"
 hash = "b757a8a1ee8965736ef1172ec4f802b084bdb752088eaf1c035d804085bb62fa"
 
@@ -422,7 +422,7 @@ hash = "ced81f08f73b529d5e0329d545a948e3f5a4f7a07d797051545472846d9af9a1"
 
 [[files]]
 file = "config/fancymenu/customization/newtitle.txt"
-hash = "75b5bc665fbf167cc9a65147d86a5de09002c2145689692003d9f4aada48a075"
+hash = "a1ae82dd61c07a9a940eb2a838e1467f2d2adfafb1316577ed3dbe991b41c322"
 
 [[files]]
 file = "config/fancymenu/customization/rfchangelog.txt"
@@ -434,7 +434,7 @@ hash = "893cc71bb9ad3e1a83815f37411ecf5df69564f62225f119a539e0365fa498aa"
 
 [[files]]
 file = "config/fancymenu/customization/rfloadingscreen.txt"
-hash = "1783877c27428978524df4777ca914bc993b9bb21c2349d51d2c5ab7369ab7ef"
+hash = "884347d1e3c32f235b3f173c4a7b28ec2e3ccc956252c90ff2b40260c0d29a28"
 
 [[files]]
 file = "config/fancymenu/fancymenu_assets/backgroundshadows.png"
@@ -469,16 +469,12 @@ file = "config/fancymenu/fancymenu_assets/mojangstudios.png"
 hash = "bfe47d708ed5324e2e4f468a891af7abf83a545efa671c8a7082d60ffc3a0463"
 
 [[files]]
-file = "config/fancymenu/fancymenu_assets/raspflavour_logo.png"
-hash = "f9ba26f84eeed5769de7bcf7ae8592f6be1eefdd01af131018e01b611ea61ed8"
+file = "config/fancymenu/fancymenu_assets/octelly.png"
+hash = "99a031b85e8a8e798dede147acb42835397a78f91dd3795c3128de37e9f0b36d"
 
 [[files]]
-file = "config/fancymenu/fancymenu_assets/rflogonewest_outline.png"
-hash = "a4533a1f3bde2f16d71c61f9e6ad02a774a0a8994ed983b1cbf03dfdd19960dd"
-
-[[files]]
-file = "config/fancymenu/fancymenu_assets/teamraspberry.png"
-hash = "9b023d02f36e5f3298d5ce2858b1f1506ca139d2210c93e218a5448a69931d1b"
+file = "config/fancymenu/fancymenu_assets/tentacle_flavoured.png"
+hash = "db2cf562c7e28d4ec0e12834767952dbfbc551c7f388ebeaa89497703616edcf"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -666,7 +662,7 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/item_obliterator.json"
-hash = "910ed1a9941f5cccd9c07a806b03b26d39306aced1d1a59d74f5f288d91444c1"
+hash = "4ff2c942c07aba128b5625c086b52019e5beb06c4b25862688f1d8d9b02f7ce7"
 
 [[files]]
 file = "config/jeed-client.toml"
@@ -9449,6 +9445,11 @@ file = "config/openloader/resources/21_RaspberryResources/pack.mcmeta"
 hash = "ac9f14b008428dc25336fa7136a0b7c84291d61deb6974a0d1f991b1e47b9686"
 
 [[files]]
+file = "config/openloader/resources/created-pretty-pipes.pw.toml"
+hash = "b10fa96344c1390071cb8c2365d913ac258fdc4c3f81abb40f019ef27431aaa9"
+metafile = true
+
+[[files]]
 file = "config/panorama.json"
 hash = "9dcb9e79705a300598ae31c57233ad68f00057f5c4e2e51b520e3d214a1efeda"
 
@@ -9527,14 +9528,6 @@ hash = "f283d89e3837106d036633bf0593e8cc791624990d33d3c5463e57a4a9f92499"
 [[files]]
 file = "config/secondchanceforge-common.toml"
 hash = "c43e2a513965659162ceb703d04066b6811c08bad77de83a5202cce0d688cfc2"
-
-[[files]]
-file = "config/simple-rpc/server-entries.toml"
-hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
-
-[[files]]
-file = "config/simple-rpc/simple-rpc.toml"
-hash = "d941005ea253a386d843e36426003a0f7a14b086f4377a5d4cd44211c3ce51f1"
 
 [[files]]
 file = "config/smoothchunk-common.toml"
@@ -12318,7 +12311,7 @@ hash = "51b3659a3dc31bfc1e642da11953d17ff341461a121aa3fffdef306f7fede7a9"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "b3a14fae2e966f78c114b3f4c04ef3aed06dbad5d37b5419991a7f308a58c88d"
+hash = "02c5f7d375d00fb303bec68a75ef479035930efc685c41119551f2be2c7e1504"
 
 [[files]]
 file = "kubejs/config/common.properties"
@@ -12327,10 +12320,6 @@ hash = "e7e20ff5555486ca00fd1f65772372f50642665b02c73021f3e564ecddb12aca"
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
 hash = "ab7a6228cf8dd4c547ebddf02a4648b0e9098b153302eb27a4dfa07344c5c323"
-
-[[files]]
-file = "kubejs/config/packicon.png"
-hash = "ec735c85abd3e9dcfe77a660b7cfc3f8b7c043ba0c1423ae2425c056a2824038"
 
 [[files]]
 file = "kubejs/data/additionaladditions/loot_tables/mysterious_bundle.json"
@@ -26638,8 +26627,18 @@ hash = "1e9213e8fb605c245436306e47f297db03235f678755d0f762460723d31e0ea0"
 metafile = true
 
 [[files]]
+file = "mods/chalk-mod.pw.toml"
+hash = "ba7ef2c37623977ae5800fb00d6afb482a28efc4fb0daf2abce260899a47b85d"
+metafile = true
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "114ff6184ac4637ff9729dcdc0abd259bb848298ce7a1827a352edce350e8996"
+metafile = true
+
+[[files]]
+file = "mods/chimes.pw.toml"
+hash = "bbdee349403e675a5475e77ae5149707d32719e8f33cdc0993cdc4d76b5dfaa2"
 metafile = true
 
 [[files]]
@@ -26743,6 +26742,11 @@ hash = "9e8d09c69fad6e8d47179dacbefb0a0dd8fa69a829ec12ecf6834c6a3ae855d7"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "f33cb1fddc10a8e41fb2c8180f4c320c22e92d9c99f214e536c2a522ed29b0be"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "27ce0f6ec9e15d9136c369315acc3c5ebd88f0c1ef8c4eb1cc33a636f6694fc1"
 metafile = true
@@ -26768,6 +26772,11 @@ hash = "c17867aff335615bc92eb287e3f263157e899e46cfd2b2bdc24597886601d228"
 metafile = true
 
 [[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
+metafile = true
+
+[[files]]
 file = "mods/dolt-compat.pw.toml"
 hash = "4e540b87c3feab3a84dcbcea226679fe05759a6936f10d871478076d5faaeebf"
 metafile = true
@@ -26788,6 +26797,11 @@ hash = "ebb2927964a249fc923bccc1a8645566fa7a41eb303a47546976efa58326ede8"
 metafile = true
 
 [[files]]
+file = "mods/dustrial-decor.pw.toml"
+hash = "bb9d2f8bb5218c127f6164cac65011286d29577dde7c734521e25704feeb58e1"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-crosshair.pw.toml"
 hash = "d214a0bac1c69d0e0b3a3254857ad5dffdad28187a4a5974bc7167498cd4ca4d"
 metafile = true
@@ -26795,6 +26809,11 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "d49b20d6841ee811b7f7cef4aae51dfa6b52c37f1fca15823699f45900152966"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "e8522704a705980fdc5e35a8c8cb4083fa8cd1a20ac358b6e4c5f8a898f071eb"
 metafile = true
 
 [[files]]
@@ -26825,6 +26844,11 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "b9cdd933ddf4e092a0faee3d718703987da7d6893212941957f1ee91cb34daac"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "25cf97afe59cd443b390789a95a78577027d0ce0c68d35e9f37e25f280b5072d"
 metafile = true
 
 [[files]]
@@ -26863,8 +26887,18 @@ hash = "dbbe67c11acd1cb11cd80dd8150d54a423033c9f386ae8cd7ec376e4a9f48614"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "3239b426b2499b9a01763746352cdcdd0c79f699870fed43e434396286ee94c8"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "860de23c02a3c13493ffb88fc71499727ae82ccac6aba04b7d82aecadd36a2ff"
+metafile = true
+
+[[files]]
+file = "mods/extrasoundsforge.pw.toml"
+hash = "2649751458bc7a74b679948f9cdf3aa559aba0d5a7c9a42bcbdbfb47f9da616b"
 metafile = true
 
 [[files]]
@@ -26900,6 +26934,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "efcb67f1c085a4daa1561024d3528aff21877a409e1b290d34daa27ce44e984a"
 metafile = true
 
 [[files]]
@@ -26970,6 +27009,11 @@ metafile = true
 [[files]]
 file = "mods/incubation.pw.toml"
 hash = "89b713b99d91c115f56140d5372867d4daca26f4d8ff9fb1e03b51c18a5ca550"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "de0386e6c0ea00c0556d416f63571625bb0ca7f54e5bcb4858810f9f5ee6bd7b"
 metafile = true
 
 [[files]]
@@ -27064,7 +27108,7 @@ metafile = true
 
 [[files]]
 file = "mods/lucent.pw.toml"
-hash = "6fe10dbf7392504acfabcde4ab3ef9c036779305db4389e1f8300aba79132c1b"
+hash = "f71c739406808a95142d2768c5e22eff7129800864282f39653db3220e325212"
 metafile = true
 
 [[files]]
@@ -27163,8 +27207,18 @@ hash = "f349720f05bacd441290629a2aabb95a8c5f742227037900db022f4e0258f2de"
 metafile = true
 
 [[files]]
+file = "mods/nightlights.pw.toml"
+hash = "a1c79dfa29aff8a3be1a262a5075272fe52af765c40f63b7e9096585da7c51fb"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "b1cee41a780aa8fbb9367dab6024a78c2b8e5a257ebed5d2754ff27f816d9cdd"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "d86c1c133af3e81fa8e2e1420a9fd135feca4b61091d59c8b8a27f76c387eda2"
 metafile = true
 
 [[files]]
@@ -27215,6 +27269,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps-forge.pw.toml"
 hash = "7f12b6d9fb0eee82b906c2e60d61b65007ff50be417ed4eda41194f0c3c8a592"
+metafile = true
+
+[[files]]
+file = "mods/pretty-pipes.pw.toml"
+hash = "5a78d00812a3247545ea03e48f23aaa98cd7a51f78082a2d4e9cfa6684a6cb6c"
 metafile = true
 
 [[files]]
@@ -27289,7 +27348,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "c3ba8fe9fd50386a489a3982d690f91637aceddbc07954ba37c3726460c098f7"
+hash = "3085130c99729756bce7a2d4fba47e9e54901ff8dbb44125c701965368eba4ee"
 metafile = true
 
 [[files]]
@@ -27305,11 +27364,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "5ca3e837c2e605c07120ab4ae53c67a6693a79f256c87a5939d09b20a437b5c9"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-rpc.pw.toml"
-hash = "a2cc9d79c789dd41b97135921fe5d314f5bc18b1fbfcd7dce33a83e34eacfdf7"
 metafile = true
 
 [[files]]
@@ -27345,6 +27399,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "df0cd54e65166c6ed018f5decdf5a7c061a9d496dd2b986d575cfb4b3c9e8b54"
 metafile = true
 
 [[files]]
@@ -27485,4 +27544,14 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "ca615db076e1af4d04f1230aa775a826c386e366198c55d5a67e827a29cd29fd"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "68b79902d98bc38e4705b621dcc54321e35742f696b462070d457cf7156d7921"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
 metafile = true
