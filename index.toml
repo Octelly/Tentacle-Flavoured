@@ -26544,7 +26544,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "9663ee96acafe87505ec857774af6a0c07dbc5a9d5aac90de2ef8bb2fa106aef"
+hash = "15040eb881076da868c168b451ecfadd88936c0d1d2ce5e479817b0760d61a1a"
 metafile = true
 
 [[files]]
@@ -26569,7 +26569,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-forge.pw.toml"
-hash = "d708b69cbdb4fe403d982b9a7b963f3ec2575a3424016d5780be346f9e5ff375"
+hash = "775241b0debc91e3e92294cfb6b4b5591ba50db20617094771d91eeb55f6966d"
 metafile = true
 
 [[files]]
@@ -26789,7 +26789,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "1863c4c3725058963e24221324a4e316195722af5b93512b4187a77494dcd126"
+hash = "27c880d15426660035e6c3b1f52ba771ca77f437e76ae58bde667cc53b108ca1"
 metafile = true
 
 [[files]]
@@ -26869,12 +26869,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "231a259da466c01ac1450df71273edecd2aee4737f5d1fa1507abffb87352266"
+hash = "a5379b234d174ce40ea467461fdf9c628cf85d97c3a7a6822a55ca9a34a5e80b"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "d8ff331a83f046ec8ada0037916cd9bf36b07bcebde29c6bbd301b0006eb7375"
+hash = "851cc92304dbabfe7789cebd62595a98ca3ff6bf7a1ed8c2c35a2dc739e60ff5"
 metafile = true
 
 [[files]]
@@ -27094,7 +27094,7 @@ metafile = true
 
 [[files]]
 file = "mods/let-sleeping-dogs-lie.pw.toml"
-hash = "3adf99f76199e09d20ae11866fbb6a6afa05b2f99acf793735e309e392f0b86e"
+hash = "3bce1536c4f6d3d501167ed83efaa8cceb75be6fd1480a15d6e4f60ad86734c6"
 metafile = true
 
 [[files]]
@@ -27154,7 +27154,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernworldcreation.pw.toml"
-hash = "e462fb5b0ad131e7c6f9fd1928c2b63a588a301ef002e96fe73997208c00d2e2"
+hash = "26b2b42d2d78523b3c7349d517966012970f5cd7b8e6148c5be663383c54e000"
 metafile = true
 
 [[files]]
@@ -27204,7 +27204,7 @@ metafile = true
 
 [[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
-hash = "49d56d76531eb631ea7978fa52729325a41c262d20fa605f7fa2732f5521f126"
+hash = "f9aacce691fc98b2d6a72c3c0fd4c5d1ee735f906fa9fceb45d20d823acac4e2"
 metafile = true
 
 [[files]]
@@ -27224,7 +27224,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "b1cee41a780aa8fbb9367dab6024a78c2b8e5a257ebed5d2754ff27f816d9cdd"
+hash = "8b0ea61890bb19ca5d5d38a77fb8da7b8e9eaaf06293323b23c7feb7082c076a"
 metafile = true
 
 [[files]]
@@ -27244,7 +27244,7 @@ metafile = true
 
 [[files]]
 file = "mods/panorama-screens.pw.toml"
-hash = "33b41e74855ad4362704420d2217d1473bb0ad82883b9771ed1cf885d793d4f2"
+hash = "9a83c7195fb1dd7ed9868a0b24ce9c9c9ac244c5a80aeb6ac28da51711f75e60"
 metafile = true
 
 [[files]]
@@ -27269,7 +27269,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "ed82251baeda863a734754b0887dcc8dd6e4205b28b00a53da55092a02cae3e0"
+hash = "1b3ed6c62aeafcbe5550f081af55a9a71f40086fcf48e997c903a7d31dc4670d"
 metafile = true
 
 [[files]]
@@ -27334,7 +27334,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "1611f3834bbef4454b89c201a4be082ccbe64ec96e40c74ba3cddab7317f4e3c"
+hash = "224363bbcecae65bc4d659809533d555a4084e63b9e2b5ae2f458041887420de"
 metafile = true
 
 [[files]]
@@ -27364,7 +27364,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "83eda896132f7ff69ab57e156fe00f913bea3a4fcb739791878516468a116bc0"
+hash = "4cb3ec1cf323f88d65fb17f0b091a68d3094bc184e9ca276e5c68ccab057a324"
 metafile = true
 
 [[files]]
@@ -27384,7 +27384,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-viewer.pw.toml"
-hash = "4c6551e7cdb4ed1a4dc2ebb6e3837a85f78d2aceafadcf2cf0ac24477983b17c"
+hash = "58ec0cb3be3971892ee5864ed4cf9b766cbdb3d5ae556d9863618c2d9f9c7de8"
 metafile = true
 
 [[files]]
@@ -27484,7 +27484,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-control.pw.toml"
-hash = "8ff48d18f2fbe8df674dcd79aabcece27808667c270401b06ac10c97d7552990"
+hash = "8497d377cb7695bbcdb10a04391b054727a42e23cc1fc1774842109127955b4e"
 metafile = true
 
 [[files]]
@@ -27494,7 +27494,7 @@ metafile = true
 
 [[files]]
 file = "mods/true-darkness.pw.toml"
-hash = "81502de0d4e694fc388b82a8396dd939fbc5c9b74ecd4117807ee300c92fa514"
+hash = "d1bc9df808ab8924c80fcc92edb5c8f9383fc2b4929c71bce1662a16e6f6067d"
 metafile = true
 
 [[files]]

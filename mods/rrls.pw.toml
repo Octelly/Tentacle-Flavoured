@@ -1,6 +1,6 @@
 name = "Remove Reloading Screen"
 filename = "Rrls-1.19.2-3.1.1-forge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

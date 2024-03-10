@@ -1,6 +1,6 @@
 name = "Panorama Screens"
 filename = "panorama_screens-1.0+forge+mc1.19.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

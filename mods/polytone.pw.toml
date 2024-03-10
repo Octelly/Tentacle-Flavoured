@@ -1,6 +1,6 @@
 name = "Polytone"
 filename = "polytone-1.19.2-1.13.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

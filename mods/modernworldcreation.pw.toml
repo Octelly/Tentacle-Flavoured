@@ -1,6 +1,6 @@
 name = "Modern World Creation [Forge]"
 filename = "modernworldcreation_forge_1.0.0_MC_1.19.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
