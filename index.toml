@@ -182,7 +182,7 @@ hash = "2bd48dad7f48c14b11d2a092bcad062c22d802a0b4ed954907a673b93f3f3295"
 
 [[files]]
 file = "config/canary.properties"
-hash = "a9497bed4269a513e840fc4ae7e0e4c25dd76ee7376bac7387b827bc133483ed"
+hash = "95298dd7fa0b59042e407cd37bcc211745e0b0aa16d95370f337450c59e1f11c"
 
 [[files]]
 file = "config/ccl.cfg"
@@ -26428,6 +26428,11 @@ hash = "799a68af763eaffd51771cb3bab81e9f1cfd5f333b0b36f04522ba1bc30fed2d"
 metafile = true
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "f6c396efb07ac716093da60cf3b80c27184659c5bb180695b1a96481fe968eef"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "945ceb14e94115ed5dcc77b0e7aed6340e034e4e07aa4ca2a542ac9d12827f5c"
 metafile = true
@@ -26598,6 +26603,21 @@ hash = "b3c16f0a62d3cd60e7db213c748920aa03a8dfd9d731a2723f0dcd59515b562b"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "3453884118418e6544387a3e4b8dc4e648896f571d895ccfaf3b7655d8c2f7bd"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "1a7e42856ecd67e6d001a3383180248f40e6bc91c25c97f8bac2a3eff735c40c"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "7c34a75e220f45e295811eeed80d441c99ceaf7a2ad7c3ac52121dfb472b8b17"
+metafile = true
+
+[[files]]
 file = "mods/cerbons-better-beacons.pw.toml"
 hash = "1e9213e8fb605c245436306e47f297db03235f678755d0f762460723d31e0ea0"
 metafile = true
@@ -26645,6 +26665,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "620351b6440c5a97a7ea574f4bba4f1f83b84ce2f908fe31a116406e35fa6c57"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "f0137997b6406301bf2abf9c60394c9ce77243e15e6264fb8193281f54b1c239"
 metafile = true
 
 [[files]]
@@ -27073,6 +27098,16 @@ hash = "3adf99f76199e09d20ae11866fbb6a6afa05b2f99acf793735e309e392f0b86e"
 metafile = true
 
 [[files]]
+file = "mods/little-contraptions.pw.toml"
+hash = "6db3aeb9a695e8e75048bf5dd0bc2cde03026396018dd848837683fb18f7bde8"
+metafile = true
+
+[[files]]
+file = "mods/little-logistics.pw.toml"
+hash = "c58af2b040eed6276c1b575973b82459a4b2559c89ed835fe397445eb32d0321"
+metafile = true
+
+[[files]]
 file = "mods/lmft.pw.toml"
 hash = "d21ebdd8d0c381c2dcea3817308c6ffc7e033b1beb6e27b8ed0ba539b4fac861"
 metafile = true
@@ -27250,6 +27285,26 @@ metafile = true
 [[files]]
 file = "mods/pretty-pipes.pw.toml"
 hash = "5a78d00812a3247545ea03e48f23aaa98cd7a51f78082a2d4e9cfa6684a6cb6c"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "03d81ef023eeec6ae63c101596c1fd6291df38694a5576baeccb3625a0360478"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+hash = "df7d7686fde6caed8ab4efb5b108d26684f47644068905f366c5f7f6bc13d45b"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "28641eb9b1d31c30f5c0c2dae77f8befc7d550222c5438ebd46f9103a251e820"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.pw.toml"
+hash = "035ae1e4b9e095e4d50eec1c96cbc82130f32fc06d7fcf11747ac6895cf1df35"
 metafile = true
 
 [[files]]
@@ -27433,8 +27488,18 @@ hash = "8ff48d18f2fbe8df674dcd79aabcece27808667c270401b06ac10c97d7552990"
 metafile = true
 
 [[files]]
+file = "mods/toms-peripherals.pw.toml"
+hash = "8596bde537c9515134757d5ca3483395e765d1c26d02b92dd564b65aaa88bc45"
+metafile = true
+
+[[files]]
 file = "mods/true-darkness.pw.toml"
 hash = "81502de0d4e694fc388b82a8396dd939fbc5c9b74ecd4117807ee300c92fa514"
+metafile = true
+
+[[files]]
+file = "mods/turtle-charging-station.pw.toml"
+hash = "3d470f4ab22a1aca97c03b4d8a47f090dd55bbd739dc78e7cfba1301d608df91"
 metafile = true
 
 [[files]]
