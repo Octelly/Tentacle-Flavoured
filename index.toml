@@ -26808,6 +26808,11 @@ hash = "d214a0bac1c69d0e0b3a3254857ad5dffdad28187a4a5974bc7167498cd4ca4d"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "67a2c58d47eb55966dfa6b7687d29997e0ea2b2ebd57e135305890a4995a9141"
+metafile = true
+
+[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "d49b20d6841ee811b7f7cef4aae51dfa6b52c37f1fca15823699f45900152966"
 metafile = true
@@ -26915,6 +26920,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-respite.pw.toml"
 hash = "51436656f2fbac1996b8b0db1313674727e70dd14ed8e102a4ea8905c82b4860"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "7d6bd464c3ec36737bd0f97c673b3bc8221f42fb2e7916af674866431c0aa1bc"
 metafile = true
 
 [[files]]
