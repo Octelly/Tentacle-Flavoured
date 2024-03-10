@@ -26939,7 +26939,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "efcb67f1c085a4daa1561024d3528aff21877a409e1b290d34daa27ce44e984a"
+hash = "13515ee541a2e62c359e4fc85a51bc99b4d1cd088898911a264e5ca0d5c2d15d"
 metafile = true
 
 [[files]]
@@ -27000,6 +27000,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast-reforged.pw.toml"
 hash = "52f8e4a8142a4b47354e34c42d1586dd0635edf3d233259afef584b3d85d83e4"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "6d09f14cba4f0c82bf84e25910688921d47fd9aacf12d007c903bfd185fb12dc"
 metafile = true
 
 [[files]]
@@ -27223,6 +27228,11 @@ hash = "a1c79dfa29aff8a3be1a262a5075272fe52af765c40f63b7e9096585da7c51fb"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9055b4a92e2ea4ad8661c226f549040eb48ae535070942a3a95b019c08ca70f6"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "8b0ea61890bb19ca5d5d38a77fb8da7b8e9eaaf06293323b23c7feb7082c076a"
 metafile = true
@@ -27415,6 +27425,11 @@ metafile = true
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
 hash = "dda18cb30c6c88e7f45e29dfeb32273da72c159eb4e3469080d27ae2ff5a7fe9"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "61799bc6367ee86a72fe54b131576cbbc6f4dbe1a1a134d561e83b02a72691be"
 metafile = true
 
 [[files]]
