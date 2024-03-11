@@ -26382,6 +26382,10 @@ file = "kubejs/server_scripts/tags.js"
 hash = "46b8aeb9ccbdad491e1cd19775897c7b10919fdf34a8ebadf0d679748f202aba"
 
 [[files]]
+file = "kubejs/server_scripts/tentacle_tweaks.js"
+hash = "a32d68a3658eef4d9f70f6a295538b6c5afe5e280d8d109b4e7e9ad5478c1501"
+
+[[files]]
 file = "kubejs/startup_scripts/block_break_speed_modify.js"
 hash = "5257a1e616341d8942210df68c9313b881f8a6e07e3a784fc2e9b85883b4fee8"
 
