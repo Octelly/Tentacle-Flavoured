@@ -26488,6 +26488,11 @@ hash = "db02a05af66b0261b1cdd4beed3ced9ec3546bb850a15a6d504677baa9d2d06f"
 metafile = true
 
 [[files]]
+file = "mods/auto-third-person.pw.toml"
+hash = "1d00f8cef225f5e1c466e857d5680dfa83abbefef318f3ebb8684093edd2559f"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true
@@ -27515,6 +27520,11 @@ metafile = true
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "8596bde537c9515134757d5ca3483395e765d1c26d02b92dd564b65aaa88bc45"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "6b15f2723c9d69caadb5bdb95b03a7057d614ad7ed72835362f0511b586f6a88"
 metafile = true
 
 [[files]]
