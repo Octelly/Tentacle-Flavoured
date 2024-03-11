@@ -15,4 +15,4 @@ version = "3d9gByqp"
 [option]
 optional = true
 default = false
-description = "Modded addon for Complementary shaders"
+description = "Modded addon for Complementary shaders. Adds configurable (and turned off by default) additions such as twinkling stars, seasons tied to world time, better lava, bedrock noise, tonemapping and more."

@@ -1,0 +1,18 @@
+name = "Freecam (Modrinth Edition)"
+filename = "freecam-forge-modrinth-1.2.3+1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/tXR5Jx3F/freecam-forge-modrinth-1.2.3%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "32a0e56eaf11e1d0057b5dc3b41db09d71b3f9d2"
+
+[update]
+[update.modrinth]
+mod-id = "XeEZ3fK2"
+version = "tXR5Jx3F"
+
+[option]
+optional = true
+default = false
+description = "Lets you see your build from angles that would be impractical to reach in survival. DOES NOT LET YOU NOCLIP"

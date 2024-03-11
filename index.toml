@@ -26813,6 +26813,11 @@ hash = "d214a0bac1c69d0e0b3a3254857ad5dffdad28187a4a5974bc7167498cd4ca4d"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "81db628c00a4ddbcafcef4e80b23b0b82fb7976931ce4ff2161cb7dc54b377da"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "67a2c58d47eb55966dfa6b7687d29997e0ea2b2ebd57e135305890a4995a9141"
 metafile = true
@@ -26899,7 +26904,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "3239b426b2499b9a01763746352cdcdd0c79f699870fed43e434396286ee94c8"
+hash = "e5f17e8300ea3e4bcb40ae17969368f4907bf4246d9ba8088aa6c475e2ba58c8"
 metafile = true
 
 [[files]]
@@ -26975,6 +26980,11 @@ metafile = true
 [[files]]
 file = "mods/forgery.pw.toml"
 hash = "110b55394384cb4c6134d5ee296488eb049b002155cc5b41dcc1d7e4dc8c4621"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "bb4a29180017af09158e7035a320c8426538d81ba1d1078ac446009f51bbbe67"
 metafile = true
 
 [[files]]
