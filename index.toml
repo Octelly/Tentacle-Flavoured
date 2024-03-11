@@ -26978,6 +26978,11 @@ hash = "110b55394384cb4c6134d5ee296488eb049b002155cc5b41dcc1d7e4dc8c4621"
 metafile = true
 
 [[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "c877bae522c0c648069de28a63d3d1917dd68dd73b554ff97eb3478b48bdfc79"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
 metafile = true
@@ -27510,6 +27515,11 @@ metafile = true
 [[files]]
 file = "mods/tips.pw.toml"
 hash = "304722782c3984ce5c9a8c679fb6998c02e0e8f3025f31c717d1d6ef594533ea"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "3b881101a79a03c80da2b64762613aa79273b7f05560db23cd08646e62783bea"
 metafile = true
 
 [[files]]
