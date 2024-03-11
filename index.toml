@@ -27032,8 +27032,8 @@ hash = "dbd150dbc7e57435ab375eeca7402400a0588071e551a5121988f5fefc2fed48"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast-reforged.pw.toml"
-hash = "52f8e4a8142a4b47354e34c42d1586dd0635edf3d233259afef584b3d85d83e4"
+file = "mods/immediatelyfast.pw.toml"
+hash = "3fd84629dfb4a639c07c49ac3f41d3dfe66bc763f056c8b2d275d0d2742c1115"
 metafile = true
 
 [[files]]
