@@ -670,7 +670,7 @@ hash = "44e7b8b50f42dc8eaf5fef195530f6580f24928cf29166bce039575d3d7f7633"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
-hash = "7ace977ddb222615dc6edcfcc81f836250684d0bb5b75f8dfb25b56cae0d8f33"
+hash = "b490188facdd40e944f2a96bfece8a10ee559659ed9b2cbc92e2fb8d1a869b2e"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
@@ -12303,7 +12303,7 @@ hash = "1b70377812936e58e1e478f1e9b7ab61306190c6d4a85f74c911c74c07d0756e"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "51b3659a3dc31bfc1e642da11953d17ff341461a121aa3fffdef306f7fede7a9"
+hash = "5c562e68ed07d6987b3027b711e61b20e5e1489c1af93d0d87dbadfc696cea0e"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -26400,6 +26400,10 @@ hash = "28e73fe28d9b41c8ddcb7108fc1dbc77c098d71589ba76f652a0b46af721c984"
 [[files]]
 file = "kubejs/server_scripts/tags.js"
 hash = "46b8aeb9ccbdad491e1cd19775897c7b10919fdf34a8ebadf0d679748f202aba"
+
+[[files]]
+file = "kubejs/server_scripts/tentacle_project_red.js"
+hash = "797fac71eba5cc11adf9b6cf5a0771ef29fc310a23c34298facba8443f6669b3"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_tweaks.js"

@@ -1498,238 +1498,238 @@ ItemEvents.tooltip(tooltip => {
   tooltip.add(['culturaldelights:avocado_wood'], "§4Unobtainable")
   tooltip.add(['neapolitan:beanstalk'], "§4Unobtainable")
   tooltip.add(['neapolitan:beanstalk_thorns'], "§4Unobtainable")
-  
+
   tooltip.addAdvanced('minecraft:disc_fragment_5', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('sob:propelpearl_caviar', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('sob:cinder_bread', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('sob:caldera_roll', (item, advanced, text) => {
-	text.remove(1)
-	text.remove(1)
+    text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('sob:mulberry_smoothie', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('sob:aloe_tea', (item, advanced, text) => {
-	text.remove(1)
-	text.remove(1)
+    text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('sob:exotic_fruit_salad', (item, advanced, text) => {
-	text.remove(1)
-	text.remove(1)
-	text.remove(1)
+    text.remove(1)
+    text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('sob:lava_top_cocktail', (item, advanced, text) => {
-	text.remove(1)
-	text.remove(1)
-	text.remove(1)
+    text.remove(1)
+    text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('sob:nether_nectar', (item, advanced, text) => {
-	text.remove(1)
-	text.remove(1)
+    text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('sob:sweet_berry_smoothie', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('sob:cherry_smoothie', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('sob:glow_berry_smoothie', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('sob:carrot_smoothie', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('sob:exquisite_mushroom_soup', (item, advanced, text) => {
-	text.remove(1)
-	text.remove(1)
+    text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('sob:saffron_tisane', (item, advanced, text) => {
-	text.remove(1)
-	text.remove(1)
+    text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('abnormals_delight:cherry_cream_soda', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('abnormals_delight:passion_aloe_nectar', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('abnormals_delight:pickerelweed_juice', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('lucky:raspberry_lucky_block', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('etched:boombox', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:golden_pickaxe', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:golden_shovel', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:golden_axe', (item, advanced, text) => {
-	text.remove(1)
-	text.remove(1)
+    text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:golden_sword', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:golden_hoe', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('farmersdelight:golden_knife', (item, advanced, text) => {
-	text.remove(1)
-	text.remove(1)
+    text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:golden_helmet', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:golden_chestplate', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:golden_leggings', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:golden_boots', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:leather_helmet', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:leather_chestplate', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:leather_leggings', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:leather_boots', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:turtle_helmet', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:chainmail_helmet', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:chainmail_chestplate', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:chainmail_leggings', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:chainmail_boots', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('alloyed:steel_helmet', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('alloyed:steel_chestplate', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('alloyed:steel_leggings', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('alloyed:steel_boots', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('alloyed:steel_sword', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('alloyed:steel_axe', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('alloyed:steel_knife', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('additionaladditions:rose_gold_helmet', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('additionaladditions:rose_gold_chestplate', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('additionaladditions:rose_gold_leggings', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('additionaladditions:rose_gold_boots', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('additionaladditions:rose_gold_pickaxe', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('additionaladditions:rose_gold_axe', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('additionaladditions:rose_gold_shovel', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('additionaladditions:rose_gold_hoe', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('additionaladditions:rose_gold_sword', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('kubejs:rose_gold_knife', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('create:copper_diving_helmet', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:trident', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:netherite_helmet', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:netherite_chestplate', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:netherite_leggings', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:netherite_boots', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('oreganized:electrum_sword', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('oreganized:electrum_axe', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('oreganized:electrum_knife', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:netherite_sword', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('minecraft:netherite_axe', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
   tooltip.addAdvanced('farmersdelight:netherite_knife', (item, advanced, text) => {
-	text.remove(1)
+    text.remove(1)
   })
-  tooltip.addAdvanced('createaddition:diamond_grit_sandpaper', (item, advanced, text) => {
-    if (!tooltip.shift) {
-      text.add(1, [Text.of('Hold [').darkGray(), Text.of('Shift').gray(), Text.of('] for Summary').darkGray()])
-    } else {
-      text.add(1, [Text.of('Hold [').darkGray(), Text.of('Shift').white(), Text.of('] for Summary').darkGray()])
-      text.add(2, [Text.of('')])
-      text.add(3, [Text.of('Can be used to ').color('#C7954B'), Text.of('refine materials').color('#EEDA78'), Text.of('. The').color('#C7954B')])
-      text.add(4, [Text.of('process can be automated with a').color('#C7954B')])
-      text.add(5, [Text.of('Deployer.').color('#C7954B')])
-      text.add(6, [Text.of('')])
-      text.add(7, [Text.of('When Used').gray()])
-      text.add(8, [Text.of(' Applies polish to items held in the').color('#C7954B')])
-      text.add(9, [Text.of(' offhand ').color('#EEDA78'), Text.of('or lying on the ').color('#C7954B'), Text.of('floor ').color('#EEDA78'), Text.of('when').color('#C7954B')])
-      text.add(10, [Text.of(' looking at them').color('#EEDA78')])
-    }
-  })
+  //tooltip.addAdvanced('createaddition:diamond_grit_sandpaper', (item, advanced, text) => {
+  //  if (!tooltip.shift) {
+  //    text.add(1, [Text.of('Hold [').darkGray(), Text.of('Shift').gray(), Text.of('] for Summary').darkGray()])
+  //  } else {
+  //    text.add(1, [Text.of('Hold [').darkGray(), Text.of('Shift').white(), Text.of('] for Summary').darkGray()])
+  //    text.add(2, [Text.of('')])
+  //    text.add(3, [Text.of('Can be used to ').color('#C7954B'), Text.of('refine materials').color('#EEDA78'), Text.of('. The').color('#C7954B')])
+  //    text.add(4, [Text.of('process can be automated with a').color('#C7954B')])
+  //    text.add(5, [Text.of('Deployer.').color('#C7954B')])
+  //    text.add(6, [Text.of('')])
+  //    text.add(7, [Text.of('When Used').gray()])
+  //    text.add(8, [Text.of(' Applies polish to items held in the').color('#C7954B')])
+  //    text.add(9, [Text.of(' offhand ').color('#EEDA78'), Text.of('or lying on the ').color('#C7954B'), Text.of('floor ').color('#EEDA78'), Text.of('when').color('#C7954B')])
+  //    text.add(10, [Text.of(' looking at them').color('#EEDA78')])
+  //  }
+  //})
   tooltip.addAdvanced('create_interactive:buffer_stop', (item, advanced, text) => {
     if (!tooltip.shift) {
       text.add(1, [Text.of('Hold [').darkGray(), Text.of('Shift').gray(), Text.of('] for Summary').darkGray()])
