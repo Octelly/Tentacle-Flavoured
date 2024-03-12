@@ -57,6 +57,26 @@ file = "config/apathy-mobs.toml"
 hash = "c956a4b365083c72942853271c23f72791b41f2b5c7c08fcbc21d7bc90417ca6"
 
 [[files]]
+file = "config/apotheosis/adventure.cfg"
+hash = "fe92b60f972150cf221ecf1b53bd1cf61d703018ba3420f16b4655cff68f9a2a"
+
+[[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "32dc03ce24058bac52851dc0507dc11e771f0548a31b2118c33aed978faf6abd"
+
+[[files]]
+file = "config/apotheosis/enchantments.cfg"
+hash = "efbd55cbe7a43a2ba357df82c963e5ffb3303a4649528b0417e78560570688da"
+
+[[files]]
+file = "config/apotheosis/spawner.cfg"
+hash = "2754c23d924e54503f79735a93c024cadf2a1a2e1ab0fa4acc6c49d4012c5d44"
+
+[[files]]
+file = "config/apotheosis/village.cfg"
+hash = "9c06164bad9a22d779a4986dc231071e7a9d3bc8f1d7d67fa277999e510d2a78"
+
+[[files]]
 file = "config/appleskin-client.toml"
 hash = "8cd245c74a55b5b5504188a148128b1263ca6a84f37cdb9689f8acc21c82ff64"
 
@@ -642,7 +662,7 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/item_obliterator.json"
-hash = "4ff2c942c07aba128b5625c086b52019e5beb06c4b25862688f1d8d9b02f7ce7"
+hash = "a82e2245dcf3d0e95953e2851847101a018338a459b4738142dcd528e058b77b"
 
 [[files]]
 file = "config/jeed-client.toml"
@@ -9547,7 +9567,7 @@ hash = "7024ee8025e1a33f230dbad3509c4e18bd48cc8415a44292c98c8abe6e5028e7"
 
 [[files]]
 file = "config/survivality-common.toml"
-hash = "49deb298cc5d682b21fef5ed52e648bca0f4e4357b3347cc3e518fb7d3a59c1d"
+hash = "fbc2bcb2a04aa93b6dd0dc55d5a2724360ea024186be6b78c3c18da108530c1a"
 
 [[files]]
 file = "config/tia.toml"
@@ -26467,6 +26487,16 @@ hash = "5da898e531637062181e107ccfcf66d5c25e3ac596e9bb913a0eb7674bf88ce2"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "37c1c48d3380186cab08bda5983ddf3d8381211502787be3c8bc26bb644164f6"
+metafile = true
+
+[[files]]
+file = "mods/apotheotic-additions.pw.toml"
+hash = "bd8a05155bad13c30b3e7c71f18e928af1696ed4e2bb6dd8e2adf83105aa1aa2"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
@@ -26599,11 +26629,6 @@ metafile = true
 [[files]]
 file = "mods/buzzier-bees.pw.toml"
 hash = "c5ba0031bdab41110f0fb4798d7e42a999cf470d25395aae40ff511958660789"
-metafile = true
-
-[[files]]
-file = "mods/canary.pw.toml"
-hash = "954db250d3d26937d4e62095a336f9c072d3e4ae441d8f71570d63ebcd1b4f83"
 metafile = true
 
 [[files]]
@@ -27292,6 +27317,11 @@ hash = "9a83c7195fb1dd7ed9868a0b24ce9c9c9ac244c5a80aeb6ac28da51711f75e60"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
+metafile = true
+
+[[files]]
 file = "mods/personality.pw.toml"
 hash = "34eaa62a613a766bd8369cc85683bb679014cbcb5852bccbb94ea8bcd993b5e4"
 metafile = true
@@ -27499,11 +27529,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "9a4cf2b30b698532774ab0b99b1c0bfe0263b2730fbebd20b4cd72f84835b528"
-metafile = true
-
-[[files]]
-file = "mods/survivality.pw.toml"
-hash = "d57b6aea687d07f4da2a3ed1ee0e0c7d7e1f024bcc483954e60a881345959b4b"
 metafile = true
 
 [[files]]
