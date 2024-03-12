@@ -9567,7 +9567,7 @@ hash = "7024ee8025e1a33f230dbad3509c4e18bd48cc8415a44292c98c8abe6e5028e7"
 
 [[files]]
 file = "config/survivality-common.toml"
-hash = "fbc2bcb2a04aa93b6dd0dc55d5a2724360ea024186be6b78c3c18da108530c1a"
+hash = "49deb298cc5d682b21fef5ed52e648bca0f4e4357b3347cc3e518fb7d3a59c1d"
 
 [[files]]
 file = "config/tia.toml"
