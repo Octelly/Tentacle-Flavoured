@@ -26402,6 +26402,10 @@ file = "kubejs/server_scripts/tags.js"
 hash = "46b8aeb9ccbdad491e1cd19775897c7b10919fdf34a8ebadf0d679748f202aba"
 
 [[files]]
+file = "kubejs/server_scripts/tentacle_pipes.js"
+hash = "ca939e0eb6ead5d6b38794106f39621acd8b0527fd663b76edbc87ae8706dfe9"
+
+[[files]]
 file = "kubejs/server_scripts/tentacle_project_red.js"
 hash = "797fac71eba5cc11adf9b6cf5a0771ef29fc310a23c34298facba8443f6669b3"
 
