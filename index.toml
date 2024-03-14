@@ -418,7 +418,7 @@ hash = "8aa7a4666ebaea81b6c314b6d036082d66523040d2b3ce07a05e4d8e01a03c05"
 
 [[files]]
 file = "config/fancymenu/customization/newoptions.txt"
-hash = "56c5be107692f6fa09b6f2f2468dfbe56db8475139d57429994c6f9c63c9177b"
+hash = "73d5d16723d63fffdcebae27bb99af97e26995d88164d442ce1a60721a499392"
 
 [[files]]
 file = "config/fancymenu/customization/newpausemenu.txt"
@@ -26910,6 +26910,11 @@ hash = "7f915b470c95bd7f440b7389bb40e8b18c6cea2dd5b36db7dc343fa27e7b6594"
 metafile = true
 
 [[files]]
+file = "mods/enhancedvisuals.pw.toml"
+hash = "7899c5791653c3012ea053fda23bdfb93e645bb8580992d512cb39fac85044eb"
+metafile = true
+
+[[files]]
 file = "mods/ensorcellation.pw.toml"
 hash = "6fa723c96d6ff394d0bd82262c603a5efc5800c8f592d6b44ac952518271f4c6"
 metafile = true
@@ -27340,6 +27345,11 @@ hash = "954c1b5e2a9f16c08027875d6ee536058e617f644e7ed0f83915b4a504015364"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "80587136ac6621e66c27444f2a300adde687dbfed38afa03edad2ceb3c83d433"
+metafile = true
+
+[[files]]
 file = "mods/pluto.pw.toml"
 hash = "9d5a150b9e7c53908227b728a87705693e856d9eaf70c185f2a5bc3a8b45390e"
 metafile = true
@@ -27397,6 +27407,21 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "ce27595ca61b2954c4e5d1f4ee73cc056656ab5873077ca4c3bc7ce18781f659"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-groups.pw.toml"
+hash = "26526bf2f83a832a8d311ceac0602be8c5c3ed495aaeaaaf4822c3c0f373c6ba"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-sculk.pw.toml"
+hash = "7e4efbc1a0ceaddda1c222e48b754a43af8b3e4791dc31a79640571dab1bc92d"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-soundphysics.pw.toml"
+hash = "699022f3c6f29cdc0aa6c629f46b087f1b2a65766cf14f1889c8f61c4c83cc9a"
 metafile = true
 
 [[files]]
@@ -27497,6 +27522,11 @@ metafile = true
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
 hash = "dda18cb30c6c88e7f45e29dfeb32273da72c159eb4e3469080d27ae2ff5a7fe9"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "ed6c83a34d437f7b2a86dce1a6dddda04dc22599e5953883ca92baab49799058"
 metafile = true
 
 [[files]]
