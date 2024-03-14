@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4512112
 project-id = 823106
+
+[option]
+optional = true
+default = true
+description = "Blurred menu backgrounds, as the Raspberry Flavoured devs intended. May cause visual bugs with EnhancedVisuals."
