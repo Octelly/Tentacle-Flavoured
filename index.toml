@@ -26910,11 +26910,6 @@ hash = "7f915b470c95bd7f440b7389bb40e8b18c6cea2dd5b36db7dc343fa27e7b6594"
 metafile = true
 
 [[files]]
-file = "mods/enhancedvisuals.pw.toml"
-hash = "7899c5791653c3012ea053fda23bdfb93e645bb8580992d512cb39fac85044eb"
-metafile = true
-
-[[files]]
 file = "mods/ensorcellation.pw.toml"
 hash = "6fa723c96d6ff394d0bd82262c603a5efc5800c8f592d6b44ac952518271f4c6"
 metafile = true
