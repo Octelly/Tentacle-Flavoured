@@ -1,0 +1,13 @@
+name = "Chaotix Apotheotic Tweaks"
+filename = "Chaotix Apotheotic Tweaks v1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9cbfc2f3ca4236289e6324fc92bf926c4a4b21b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5079737
+project-id = 970522

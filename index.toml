@@ -1753,6 +1753,11 @@ file = "config/openloader/data/ZZZ_Advancements/pack.mcmeta"
 hash = "90d16abde992dd831dc53af5230c88d2e9c1381a59839cfb9f300bc009221458"
 
 [[files]]
+file = "config/openloader/data/create-immersive-aircrafts-data-pack.pw.toml"
+hash = "00ec986293480facbdce919a1fa7c0d93ddbd237a175ecdd5844b8202063de6e"
+metafile = true
+
+[[files]]
 file = "config/openloader/resources/01_VanillaTweaks/Selected Packs.txt"
 hash = "dd3c318fd5f280b38ae7cff8f79b9d03e6583046e47f22efd1fda160487526bb"
 
@@ -9443,6 +9448,16 @@ hash = "8468d5af721815f7545f624274522db61e3ad7e1e466fe1cfab855a5e8355726"
 [[files]]
 file = "config/openloader/resources/21_RaspberryResources/pack.mcmeta"
 hash = "ac9f14b008428dc25336fa7136a0b7c84291d61deb6974a0d1f991b1e47b9686"
+
+[[files]]
+file = "config/openloader/resources/chaotix-apotheotic-tweaks.pw.toml"
+hash = "20adb9ea7a89f2b3ba486a25135edf1063c40fa610f90cc7466497cf95961fe3"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/create-immersive-aircrafts-resource-pack.pw.toml"
+hash = "3aaf810a69ccc9f91c90cfdf8dcda031da00b0c7d5186bc05716106c60cc4024"
+metafile = true
 
 [[files]]
 file = "config/openloader/resources/created-pretty-pipes.pw.toml"
@@ -26402,6 +26417,10 @@ file = "kubejs/server_scripts/tags.js"
 hash = "46b8aeb9ccbdad491e1cd19775897c7b10919fdf34a8ebadf0d679748f202aba"
 
 [[files]]
+file = "kubejs/server_scripts/tentacle_mapperbase.js"
+hash = "22d22b3cfa5cff11a75b79745880f5014489856e194d32b2ab1001f6de8e2180"
+
+[[files]]
 file = "kubejs/server_scripts/tentacle_pipes.js"
 hash = "ca939e0eb6ead5d6b38794106f39621acd8b0527fd663b76edbc87ae8706dfe9"
 
@@ -26451,7 +26470,7 @@ hash = "19d9fc9af0e5e6aa2dc0167e026b887480a8ff1335cbb09673f8fd6eda7397b5"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
-hash = "ddd15e31766ac378b3ef8e13886dbb20b4f9b9aeed6171d13e49b3eea4d8c438"
+hash = "5e94c8452da498bb9e54b835d4da28fa13ce4381939851f9ec7032a09ff3876c"
 metafile = true
 
 [[files]]
@@ -26521,7 +26540,7 @@ metafile = true
 
 [[files]]
 file = "mods/atmospheric.pw.toml"
-hash = "355ebcb72df7915986f1e749a722a14dd740772ebaef1c835c91ee1355e7b3fb"
+hash = "5ab592fa2e7aa450321578a9662513ac1d4aa823d0d2d5df55d9fa43ca14f9ac"
 metafile = true
 
 [[files]]
@@ -26532,6 +26551,11 @@ metafile = true
 [[files]]
 file = "mods/auto-third-person.pw.toml"
 hash = "1d00f8cef225f5e1c466e857d5680dfa83abbefef318f3ebb8684093edd2559f"
+metafile = true
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "06c17432822ece01efb5a8c1de4605014e426da41028c11bdc585627ccd46ca0"
 metafile = true
 
 [[files]]
@@ -26611,7 +26635,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "079bdd15fe839b3937ae6f75e421c9d72e170374497055858d7265100a50fd48"
+hash = "f30dc5b64b12df077cabf15d38ad1480f5459a8025de2d7ee71232d1dcaf383a"
 metafile = true
 
 [[files]]
@@ -26775,6 +26799,11 @@ hash = "e6c4c25e867f9adc3f9ed8e19406fca11d518dbec148d7f76c9c4cc50b37ec22"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "b0bb61105e0ac0c763edfa41ea5b0406f157bc17e421af1bf8b2cbb49325ced6"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "b63f2403870b9915cd6f5d54d7a4e8fe80af83ce9f435ca470e85d6b4c684ba4"
 metafile = true
@@ -26931,7 +26960,7 @@ metafile = true
 
 [[files]]
 file = "mods/environmental.pw.toml"
-hash = "d84b2241468deba7bf5cf40a9fbdc5bf5b7655f3ef7846e7f4e5e76c105e8a0c"
+hash = "7efd63379259f1d7e4dc202d64101f9c5e4d47c88cb17e14c964509df9af2084"
 metafile = true
 
 [[files]]
@@ -26961,7 +26990,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "7178ff9343de304a0b6a46bb26469b82ae90051f17ea4e5e547bbc86cbf7982f"
+hash = "3996a699533ac6cc063f839f53bd5b10036f5e71ab735da9d96dfea8f1ce56a9"
 metafile = true
 
 [[files]]
@@ -27067,6 +27096,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3fd84629dfb4a639c07c49ac3f41d3dfe66bc763f056c8b2d275d0d2742c1115"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "5262d9f06f2a5bedd00656b73b9498f2ee8013b9e97181f6180f531b23b33252"
 metafile = true
 
 [[files]]
@@ -27202,6 +27236,11 @@ metafile = true
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "edf56dd65ed38458e9d578083ddbfa4683005c7648af7ac47ae88a873f7a1285"
+metafile = true
+
+[[files]]
+file = "mods/mapper-base.pw.toml"
+hash = "2f75d8415989012bedfce7d7903fe4aee6310d53e7eedcc4a7c4900cdcf9fdc0"
 metafile = true
 
 [[files]]
@@ -27445,6 +27484,11 @@ hash = "bcbbe3ce65a11c56f9831b10de9cc656627c908c3403183ec5c63cc199442a09"
 metafile = true
 
 [[files]]
+file = "mods/redeco.pw.toml"
+hash = "7467944f4e50b34591431c4d31fded3c555b712551fd0b2e4ba6bec8d667e563"
+metafile = true
+
+[[files]]
 file = "mods/redirector.pw.toml"
 hash = "e0548e13b9601fb59af1c762cc22a4becb400bef18c8564d23c92c3144cf3317"
 metafile = true
@@ -27462,6 +27506,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "aec4286f0e205df1d35997fe6f73e8daf5130768e1cbe39c1c73a2339f020b39"
+metafile = true
+
+[[files]]
+file = "mods/road-stuff.pw.toml"
+hash = "51e599f2db984a1c92fd4c21b2178127d14090cf80065308741afaf59a030180"
 metafile = true
 
 [[files]]

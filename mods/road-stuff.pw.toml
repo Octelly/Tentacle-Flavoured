@@ -1,0 +1,13 @@
+name = "Road Stuff"
+filename = "roadstuff-1.19.2-7.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wdHMjzyQ/versions/KXiipwrd/roadstuff-1.19.2-7.0.1.jar"
+hash-format = "sha1"
+hash = "476c0cf43b42d0414f3e865c7440e54b027d5f24"
+
+[update]
+[update.modrinth]
+mod-id = "wdHMjzyQ"
+version = "KXiipwrd"

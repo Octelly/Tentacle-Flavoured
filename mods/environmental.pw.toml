@@ -1,13 +1,13 @@
 name = "Environmental"
-filename = "environmental-1.19.2-3.0.0.jar"
+filename = "environmental-1.19.2-3.1.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/OqtiAZcV/versions/fTebD5cr/environmental-1.19.2-3.1.0.jar"
 hash-format = "sha1"
-hash = "61b539fd388cc203d23176dd2778bc6411fd65d9"
-mode = "metadata:curseforge"
+hash = "8143bc84d76fff466f4cdb63c083f18c83b89c39"
 
 [update]
-[update.curseforge]
-file-id = 4415514
-project-id = 388992
+[update.modrinth]
+mod-id = "OqtiAZcV"
+version = "fTebD5cr"
