@@ -26417,6 +26417,10 @@ file = "kubejs/server_scripts/tags.js"
 hash = "46b8aeb9ccbdad491e1cd19775897c7b10919fdf34a8ebadf0d679748f202aba"
 
 [[files]]
+file = "kubejs/server_scripts/tentacle_bitterballen.js"
+hash = "7e0fc84eb2bbfe1b9f127a85738ccf0f7b6a4b5bb2db5c1ab61154b73b529adb"
+
+[[files]]
 file = "kubejs/server_scripts/tentacle_mapperbase.js"
 hash = "22d22b3cfa5cff11a75b79745880f5014489856e194d32b2ab1001f6de8e2180"
 
@@ -26781,6 +26785,11 @@ metafile = true
 [[files]]
 file = "mods/create-alloyed.pw.toml"
 hash = "5d9aa68db8ad8a7bfc9aae2298e56b76d690b165f618b8cee4f565109e96ab9b"
+metafile = true
+
+[[files]]
+file = "mods/create-bitterballen.pw.toml"
+hash = "aae6aa34510a5f1f53a56a97483ecdbf76b1289fd4145f1bbf20c9535de15c16"
 metafile = true
 
 [[files]]
