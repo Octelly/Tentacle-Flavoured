@@ -26421,6 +26421,10 @@ file = "kubejs/server_scripts/tentacle_bitterballen.js"
 hash = "7e0fc84eb2bbfe1b9f127a85738ccf0f7b6a4b5bb2db5c1ab61154b73b529adb"
 
 [[files]]
+file = "kubejs/server_scripts/tentacle_createaddition.js"
+hash = "7b3a6c0531c7d1eb083bd3006bf28f12131791c1540bc5614d3cbad99f40136b"
+
+[[files]]
 file = "kubejs/server_scripts/tentacle_mapperbase.js"
 hash = "22d22b3cfa5cff11a75b79745880f5014489856e194d32b2ab1001f6de8e2180"
 
@@ -27204,7 +27208,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "28a3d11f305e1ff760a4dbcc190d5ca5413cff381aa3ae5b0ca190ecb8c2815d"
+hash = "cf4c8e9b5b75dee5f0c0f94521957c5acafba4b276d4150b1e7443db1862b1d9"
 metafile = true
 
 [[files]]
