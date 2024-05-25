@@ -1,13 +1,13 @@
 name = "ExtraSounds Forge"
-filename = "extrasounds-1.2c-1.19.2-forge.jar"
+filename = "extrasounds-1.19.2-forge-1.3-hotfix.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jv7tzVE4/versions/4lGFmeqh/extrasounds-1.2c-1.19.2-forge.jar"
+url = "https://cdn.modrinth.com/data/jv7tzVE4/versions/lU9WBT8w/extrasounds-1.19.2-forge-1.3-hotfix.jar"
 hash-format = "sha1"
-hash = "e878f6bc6002605b18f204d9e81d973ff44e2e59"
+hash = "ce5e5f4483a37792a398f7ae496485f01b9ec1b6"
 
 [update]
 [update.modrinth]
 mod-id = "jv7tzVE4"
-version = "4lGFmeqh"
+version = "lU9WBT8w"

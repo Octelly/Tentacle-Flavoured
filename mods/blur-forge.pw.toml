@@ -1,18 +1,18 @@
 name = "Blur (Forge)"
-filename = "blur-forge-3.0.0.jar"
+filename = "blur-forge-3.1.1+mc1.19.2.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "68a9f1072eb5375200c4e97b90289f224b4dfd98"
+hash = "3dee4972a73b0d19cced5b8d21f64f163a4d455c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4512112
+file-id = 4906350
 project-id = 823106
 
 [option]
 optional = true
-default = true
 description = "Blurred menu backgrounds, as the Raspberry Flavoured devs intended. May cause visual bugs with EnhancedVisuals."
+default = true

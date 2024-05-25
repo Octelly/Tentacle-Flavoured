@@ -1,13 +1,13 @@
 name = "Visuality: Reforged"
-filename = "Visuality-1.0+forge-mc1.19.jar"
+filename = "visuality-forge-2.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "92449287b335185054bdc55929c666da6928a693"
+hash = "4d856c31b01ca3a43caf3210765460f4ba553196"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4104893
+file-id = 4684872
 project-id = 704256

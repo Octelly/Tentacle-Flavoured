@@ -1,13 +1,13 @@
 name = "More Mob Variants"
-filename = "moremobvariants-forge+1.19.2-1.2.0.jar"
+filename = "moremobvariants-forge+1.19.2-1.3.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "345942075ffd97e5cd55337abcd05a28729e62e2"
+hash = "1e40807cefc445f53f6ab6d35d4d9e987cbb32a7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4577430
+file-id = 5280608
 project-id = 695107

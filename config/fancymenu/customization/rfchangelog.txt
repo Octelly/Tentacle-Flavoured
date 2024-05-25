@@ -1,19 +1,32 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
+layout-meta {
   identifier = rfchangelog
-  randomgroup = 1
-  renderorder = foreground
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1716646821254
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:9e6b94e1-7c51-4c5c-9ee3-663f6b934890-1716646821254] = [groups:][instances:]
 }
 
 customization {
-  keepaspectratio = false
   action = backgroundoptions
+  keepaspectratio = false
 }
 
-customization {
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
   orientation = mid-centered
   enable_scrolling = true
   shadow = true
@@ -30,23 +43,39 @@ customization {
   y = -94
   alignment = left
   height = 167
+  element_type = fancymenu_customization_item_text
 }
 
-customization {
-  orientation = mid-centered
-  loopbackgroundanimations = true
+element {
+  button_element_executable_block_identifier = da4b3320-302e-482d-bb6e-83e5f9fe3040-1716646821254
+  [executable_action_instance:259af343-f83e-4a67-acea-c17c6d1ceb19-1716646821254][action_type:closegui] = 
+  [executable_block:da4b3320-302e-482d-bb6e-83e5f9fe3040-1716646821254][type:generic] = [executables:259af343-f83e-4a67-acea-c17c6d1ceb19-1716646821254;]
   restartbackgroundanimations = true
-  buttonaction = closegui%btnaction_splitter_fm%
-  x = -102
-  width = 204
-  action = addbutton
-  actionid = 6d5a4aa0-6dcc-4ede-a838-09c3de7a27731690067224501
-  y = 84
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
   label = Done
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 6d5a4aa0-6dcc-4ede-a838-09c3de7a27731690067224501
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -102
+  y = 84
+  width = 204
   height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 2094d6b6-58b1-4ad2-8d61-1a285231edd4-1716646821254
+  [loading_requirement_container_meta:2094d6b6-58b1-4ad2-8d61-1a285231edd4-1716646821254] = [groups:][instances:]
 }
 
-customization {
+element {
   orientation = mid-centered
   enable_scrolling = true
   shadow = true
@@ -64,5 +93,6 @@ customization {
   alignment = centered
   base_color = E8587C
   height = 12
+  element_type = fancymenu_customization_item_text
 }
 

@@ -8,7 +8,7 @@
   "WateringCan": false,
   "RoseGold": true,
   "Ropes": false,
-  "EnchantmentPrecision": false,
+  "EnchantmentPrecision": true,
   "EnchantmentSpeed": false,
   "Wrench": false,
   "CopperPatina": false,

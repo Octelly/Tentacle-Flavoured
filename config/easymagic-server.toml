@@ -1,6 +1,6 @@
 #Amount of bookshelves required to perform enchantments at the highest level.
 #Range: > 0
-max_enchanting_power = 15
+max_enchanting_power = 100
 #Add a button in the enchanting screen to allow for re-rolling enchantments.
 #This costs experience levels as well as lapis lazuli, or can be free when the costs are set to 0.
 reroll_enchantments = true
@@ -21,4 +21,3 @@ dedicated_reroll_catalyst = false
 #Requires the re-rolling option to be enabled.
 #Range: > 0
 reroll_experience_points_cost = 5
-
