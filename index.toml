@@ -9718,10 +9718,6 @@ file = "defaultconfigs/hourglass-server.toml"
 hash = "e3859e3b593683bfd184861ec746f97c31544a8eeb959fd0146de0f73ba2aafe"
 
 [[files]]
-file = "defaultconfigs/refinedstorage-server.toml"
-hash = "37ec3cf23b3fbf7ef9a98bbcd5649c3a9fabe6c90a829a1ecb392015d3937259"
-
-[[files]]
 file = "defaultconfigs/rrp.properties"
 hash = "126b80f6c694aa1ab404e06ead03ffce379ec446013fb0111dce06ed1c2e820b"
 
