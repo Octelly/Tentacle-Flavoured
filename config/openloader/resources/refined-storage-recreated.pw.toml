@@ -1,0 +1,13 @@
+name = "Refined Storage - ReCreated"
+filename = "Refined Storage - ReCreated v0.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qsuykqni/versions/kNqKfxUP/Refined%20Storage%20-%20ReCreated%20v0.3.zip"
+hash-format = "sha1"
+hash = "2e7fff8c845638cb968a1f48eec140508c10b1cb"
+
+[update]
+[update.modrinth]
+mod-id = "Qsuykqni"
+version = "kNqKfxUP"

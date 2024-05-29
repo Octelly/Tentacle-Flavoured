@@ -1,0 +1,13 @@
+name = "Create: Copycats+"
+filename = "Copycats-forge.1.19.2-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UT2M39wf/versions/B27OlNtv/Copycats-forge.1.19.2-1.2.5.jar"
+hash-format = "sha1"
+hash = "8d5ef2e975d61ec43a3f7f6b62523466a902f484"
+
+[update]
+[update.modrinth]
+mod-id = "UT2M39wf"
+version = "B27OlNtv"

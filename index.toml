@@ -9497,6 +9497,11 @@ hash = "b10fa96344c1390071cb8c2365d913ac258fdc4c3f81abb40f019ef27431aaa9"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/refined-storage-recreated.pw.toml"
+hash = "e2dceb968b2fd1f0d34a825d871aeb56d269252d50565df323139d38a31e90b2"
+metafile = true
+
+[[files]]
 file = "config/panorama.json"
 hash = "9dcb9e79705a300598ae31c57233ad68f00057f5c4e2e51b520e3d214a1efeda"
 
@@ -9711,6 +9716,10 @@ hash = "932f513e38acae8c2a37a26097f3ddcc2d2de156780c971e4611e4039bb09fab"
 [[files]]
 file = "defaultconfigs/hourglass-server.toml"
 hash = "e3859e3b593683bfd184861ec746f97c31544a8eeb959fd0146de0f73ba2aafe"
+
+[[files]]
+file = "defaultconfigs/refinedstorage-server.toml"
+hash = "37ec3cf23b3fbf7ef9a98bbcd5649c3a9fabe6c90a829a1ecb392015d3937259"
 
 [[files]]
 file = "defaultconfigs/rrp.properties"
@@ -26469,8 +26478,12 @@ file = "kubejs/server_scripts/tentacle_project_red.js"
 hash = "797fac71eba5cc11adf9b6cf5a0771ef29fc310a23c34298facba8443f6669b3"
 
 [[files]]
+file = "kubejs/server_scripts/tentacle_refined.js"
+hash = "c1fba55426b774bbff945265e8443e2f263203010158eb859fc693945a2370c2"
+
+[[files]]
 file = "kubejs/server_scripts/tentacle_tweaks.js"
-hash = "a32d68a3658eef4d9f70f6a295538b6c5afe5e280d8d109b4e7e9ad5478c1501"
+hash = "0df70b11c90f646c9a7decbc9ea7ea940b2da81ffd18f4c71574452812bc5de0"
 
 [[files]]
 file = "kubejs/startup_scripts/block_break_speed_modify.js"
@@ -26785,7 +26798,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "84f9ab0b2d1ab7b1fd19559030bcf71bd8e67bad73e92fb6f7dd9e7c37621fa8"
+hash = "01cfdc98d1402bec4c99c8b4a854876a23d197906c5f00989d3a3e13fdddd90e"
 metafile = true
 
 [[files]]
@@ -26811,6 +26824,11 @@ metafile = true
 [[files]]
 file = "mods/copperized.pw.toml"
 hash = "91a5a0ce58367c27127836c526a7104a4db92e81526a8087740ddbcea461f464"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "3c3974d8ef305000e872e9571f77d3d4783804aef6e16c6968cd20c63c727b28"
 metafile = true
 
 [[files]]
@@ -26840,12 +26858,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "e8f6b748eb82d1c167261b93b0290b40dc465ba76be15a00a7ad3df527de9dc5"
+hash = "995891050382ba230bd613ddf5dd791fc2d8a793db155528315444dc892dac89"
 metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "b0bb61105e0ac0c763edfa41ea5b0406f157bc17e421af1bf8b2cbb49325ced6"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "b7f3ab55bef4e2d6ae6073f6025e601bab56ff1411b0998b0fe56f13d4e58fe2"
 metafile = true
 
 [[files]]
@@ -26860,7 +26883,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9e8d09c69fad6e8d47179dacbefb0a0dd8fa69a829ec12ecf6834c6a3ae855d7"
+hash = "8f7b16bd319a4c534acbc80f83e4359b756b301c76444d5a0afa1d1cb45d20a4"
 metafile = true
 
 [[files]]
@@ -27080,7 +27103,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "a38a1991d430fcc5c8e78121b3423e2998041e20dc3fa2e4e574da57f3545f8c"
+hash = "13515ee541a2e62c359e4fc85a51bc99b4d1cd088898911a264e5ca0d5c2d15d"
 metafile = true
 
 [[files]]
@@ -27121,6 +27144,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "d6168fefc3f3f16bd8a5a44ec78053d10d6b7d0be4938f4d9d2d29a3214d7014"
+metafile = true
+
+[[files]]
+file = "mods/heartstone.pw.toml"
+hash = "0e7d5ad70af110b7cf953e77001ced99c5bdf8d2774198fdcd52ea18456f0938"
 metafile = true
 
 [[files]]
@@ -27331,6 +27359,11 @@ metafile = true
 [[files]]
 file = "mods/modernworldcreation.pw.toml"
 hash = "26b2b42d2d78523b3c7349d517966012970f5cd7b8e6148c5be663383c54e000"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "b05ae9442445c67b00ba24f09e2489e12f963274b8dbe41bbfead61a5c9660dc"
 metafile = true
 
 [[files]]
@@ -27559,6 +27592,11 @@ hash = "598583e7acba1c7e5e322c5fb3e737feba1ae2b18ee84db2e1675c6ad78f76fd"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "0160cf6eda610a4408e9746211b418e969b951ee900b2ba9ad18c3c444f68eae"
+metafile = true
+
+[[files]]
 file = "mods/respiteful.pw.toml"
 hash = "4b6b00f67477b87bcb3c3c44400dbb6f32c2bd4d3b0a37b7b796e6115d8b2c47"
 metafile = true
@@ -27630,7 +27668,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "9be8a1675529dc4df1942ae833ccdcc53c5cdd7493735688de45e07cb223190b"
+hash = "42b217fd872b27710b2efe48adf24fee5779391386b11af07f08074053caa69b"
 metafile = true
 
 [[files]]
