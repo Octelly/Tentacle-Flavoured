@@ -26484,7 +26484,7 @@ hash = "c1fba55426b774bbff945265e8443e2f263203010158eb859fc693945a2370c2"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_storagedrawers.js"
-hash = "e3942012812c3a7521b638f510cd13680c6fb3ea4faaec680cd71d9557f534b8"
+hash = "4dde74be20e900d2c1b0e2f7027647d21cc5ead530b8f07da52fb25dbb004ecb"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_tweaks.js"
@@ -27147,11 +27147,6 @@ hash = "db14b625397c5476cdc79c3cb6f29ccaf910d381f7255d8935af71c9c008bbb1"
 metafile = true
 
 [[files]]
-file = "mods/framed-compacting-drawers.pw.toml"
-hash = "b4b605e4df633defe9dc214da0e2c48f56ab8423d31e46ce7b629f27b8db0e78"
-metafile = true
-
-[[files]]
 file = "mods/freecam.pw.toml"
 hash = "bb4a29180017af09158e7035a320c8426538d81ba1d1078ac446009f51bbbe67"
 metafile = true
@@ -27717,8 +27712,8 @@ hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
 metafile = true
 
 [[files]]
-file = "mods/storage-drawers.pw.toml"
-hash = "11332954f108106789ad818138a9b6ee0dd169a92b8763ae35d2d9ce88815c23"
+file = "mods/storagedrawers.pw.toml"
+hash = "df0cd54e65166c6ed018f5decdf5a7c061a9d496dd2b986d575cfb4b3c9e8b54"
 metafile = true
 
 [[files]]

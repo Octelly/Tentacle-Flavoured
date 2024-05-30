@@ -1,65 +1,71 @@
 ServerEvents.recipes(event => {
-	event.remove({ mod: 'storagedrawers' })
-	event.remove({ mod: 'framedcompactdrawers' })
+	event.remove({
+		not: [
+			{ output: '#storagedrawers:drawers' },
+			{ output: /storagedrawers:.*_trim/ }
+		],
+		mod: 'storagedrawers'
+	}
+	)
 
-	event.shaped('framedcompactdrawers:framed_full_one', [
-		'w w',
-		' c ',
-		'w w'
-	], {
-		w: '#minecraft:planks',
-		c: '#forge:chests/wooden'
-	})
+	//event.shaped('framedcompactdrawers:framed_full_one', [
+	//	'w w',
+	//	' c ',
+	//	'w w'
+	//], {
+	//	w: '#minecraft:planks',
+	//	c: '#forge:chests/wooden'
+	//})
 
-	event.shaped('framedcompactdrawers:framed_full_two', [
-		'wcw',
-		'   ',
-		'wcw'
-	], {
-		w: '#minecraft:planks',
-		c: '#forge:chests/wooden'
-	})
+	//event.shaped('framedcompactdrawers:framed_full_two', [
+	//	'wcw',
+	//	'   ',
+	//	'wcw'
+	//], {
+	//	w: '#minecraft:planks',
+	//	c: '#forge:chests/wooden'
+	//})
 
-	event.shaped('framedcompactdrawers:framed_full_four', [
-		'cwc',
-		'w w',
-		'cwc'
-	], {
-		w: '#minecraft:planks',
-		c: '#forge:chests/wooden'
-	})
+	//event.shaped('framedcompactdrawers:framed_full_four', [
+	//	'cwc',
+	//	'w w',
+	//	'cwc'
+	//], {
+	//	w: '#minecraft:planks',
+	//	c: '#forge:chests/wooden'
+	//})
 
-	event.shaped('framedcompactdrawers:framed_trim', [
-		'sw',
-		'ws'
-	], {
-		w: '#minecraft:planks',
-		s: '#forge:rods/wooden',
-	})
+	//event.shaped('framedcompactdrawers:framed_trim', [
+	//	'sw',
+	//	'ws'
+	//], {
+	//	w: '#minecraft:planks',
+	//	s: '#forge:rods/wooden',
+	//})
 
 	event.shapeless('storagedrawers:compacting_drawers_3', [
 		'refinedstorage:machine_casing',
 		'minecraft:piston',
-		'framedcompactdrawers:framed_full_one'
+		'#storagedrawers:drawers'
 	])
 
 	event.shapeless('storagedrawers:controller', [
 		'refinedstorage:machine_casing',
 		'refinedstorage:improved_processor',
-		'framedcompactdrawers:framed_full_one'
+		'#storagedrawers:drawers'
 	])
 
 	event.shapeless('storagedrawers:controller_slave', [
 		'refinedstorage:machine_casing',
 		'refinedstorage:basic_processor',
-		'framedcompactdrawers:framed_full_one'
+		'#storagedrawers:drawers'
 	])
 
 	event.stonecutting('storagedrawers:drawer_key', '#forge:ingots/gold')
 	event.stonecutting('storagedrawers:quantify_key', '#forge:ingots/gold')
 	event.stonecutting('storagedrawers:shroud_key', '#forge:ingots/gold')
 
-	event.recipes.create.pressing('4x storagedrawers:upgrade_template', 'framedcompactdrawers:framed_full_one')
+	event.recipes.create.pressing('4x storagedrawers:upgrade_template', '#storagedrawers:drawers')
 
 	const upgrades = [
 		'storagedrawers:obsidian_storage_upgrade',
