@@ -1,0 +1,13 @@
+name = "Framed Compacting Drawers"
+filename = "framedcompactdrawers-1.19-5.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4bfbdac6fcc63bf6dbe78ad59dc5477b8c4673b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4459815
+project-id = 376351

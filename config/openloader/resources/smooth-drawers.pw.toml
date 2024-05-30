@@ -1,0 +1,13 @@
+name = "Smooth Drawers"
+filename = "SmoothDrawers_1.19_v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/85Qf7nOT/versions/tMOM0ID6/SmoothDrawers_1.19_v1.zip"
+hash-format = "sha1"
+hash = "7f4b7b78171a8c17778e05c789043cb60a500de9"
+
+[update]
+[update.modrinth]
+mod-id = "85Qf7nOT"
+version = "tMOM0ID6"

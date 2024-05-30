@@ -9502,6 +9502,11 @@ hash = "e2dceb968b2fd1f0d34a825d871aeb56d269252d50565df323139d38a31e90b2"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/smooth-drawers.pw.toml"
+hash = "0ea47f2c211731a4b8a500695f606a2543c3621f2f560e83de549511693ef5fe"
+metafile = true
+
+[[files]]
 file = "config/panorama.json"
 hash = "9dcb9e79705a300598ae31c57233ad68f00057f5c4e2e51b520e3d214a1efeda"
 
@@ -26478,6 +26483,10 @@ file = "kubejs/server_scripts/tentacle_refined.js"
 hash = "c1fba55426b774bbff945265e8443e2f263203010158eb859fc693945a2370c2"
 
 [[files]]
+file = "kubejs/server_scripts/tentacle_storagedrawers.js"
+hash = "e3942012812c3a7521b638f510cd13680c6fb3ea4faaec680cd71d9557f534b8"
+
+[[files]]
 file = "kubejs/server_scripts/tentacle_tweaks.js"
 hash = "0df70b11c90f646c9a7decbc9ea7ea940b2da81ffd18f4c71574452812bc5de0"
 
@@ -26585,6 +26594,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "3bea0442d74ad9116aa556afd0b84b54ecfd9504af3dabd914c829728082a34c"
+metafile = true
+
+[[files]]
+file = "mods/astikorcarts.pw.toml"
+hash = "1288e6c671796e9fe57239fc7aaa8d6b078c2d52ceb845406eb83b6643b6ac61"
 metafile = true
 
 [[files]]
@@ -26928,6 +26942,11 @@ hash = "119876b8e10ab75446efdb1eec68f13851e04454c889cba40a54e9b9a2cf613b"
 metafile = true
 
 [[files]]
+file = "mods/drawerfps.pw.toml"
+hash = "14353d481bf8743e3c04de8da92ec941053cf2fb0f57a113da417d22a040bbd6"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "11fc1debfa0bf88d7b57d8bc45cb3081360e19ea37e1bfcbb9765d9a887daa4d"
 metafile = true
@@ -27010,6 +27029,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "a5e2662048acc97d31b42cac15365306be2a00de7939cf06fd180f8120916853"
+metafile = true
+
+[[files]]
+file = "mods/ender-mail.pw.toml"
+hash = "31cb5fce80340b88246ed96f73c951c9955ea053b96891281612df3dd71091e5"
 metafile = true
 
 [[files]]
@@ -27120,6 +27144,11 @@ metafile = true
 [[files]]
 file = "mods/forgery.pw.toml"
 hash = "db14b625397c5476cdc79c3cb6f29ccaf910d381f7255d8935af71c9c008bbb1"
+metafile = true
+
+[[files]]
+file = "mods/framed-compacting-drawers.pw.toml"
+hash = "b4b605e4df633defe9dc214da0e2c48f56ab8423d31e46ce7b629f27b8db0e78"
 metafile = true
 
 [[files]]
@@ -27685,6 +27714,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "11332954f108106789ad818138a9b6ee0dd169a92b8763ae35d2d9ce88815c23"
 metafile = true
 
 [[files]]
