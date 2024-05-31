@@ -14091,10 +14091,6 @@ file = "kubejs/data/create/recipes/sequenced_assembly/precision_mechanism.json"
 hash = "f1192041d5e1f8174d3f023b794b086e035786c0dce1522c53ff4dc6caa92821"
 
 [[files]]
-file = "kubejs/data/create/recipes/sequenced_assembly/track.json"
-hash = "3f13abedf0422e9f8637f6e806d172ddd4751bb26bb988dd6142d39f24cd4e67"
-
-[[files]]
 file = "kubejs/data/create/recipes/splashing/crushed_copper_ore.json"
 hash = "cd83e57df02641c76e21a7d17fd6a87d2e3d9a2a7c4d3aece74e9be282aa9874"
 
@@ -26480,15 +26476,19 @@ hash = "797fac71eba5cc11adf9b6cf5a0771ef29fc310a23c34298facba8443f6669b3"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_refined.js"
-hash = "c1fba55426b774bbff945265e8443e2f263203010158eb859fc693945a2370c2"
+hash = "c1c13611fe411f42706e70b9a59bf8cc4a43170194048248a0641a793e94d2d2"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_storagedrawers.js"
 hash = "4dde74be20e900d2c1b0e2f7027647d21cc5ead530b8f07da52fb25dbb004ecb"
 
 [[files]]
+file = "kubejs/server_scripts/tentacle_traintracks.js"
+hash = "499f3a74cd40fc9d714d3fafbcc8de2511cc94c913ee0e9a0497d88f45724e9e"
+
+[[files]]
 file = "kubejs/server_scripts/tentacle_tweaks.js"
-hash = "0df70b11c90f646c9a7decbc9ea7ea940b2da81ffd18f4c71574452812bc5de0"
+hash = "66f38e1e5e8450c04614ff3cf1cfefba03c4d00b72b1bded6cbce04ebf8a66f7"
 
 [[files]]
 file = "kubejs/startup_scripts/block_break_speed_modify.js"
@@ -26819,6 +26819,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
+metafile = true
+
+[[files]]
+file = "mods/connectedness.pw.toml"
+hash = "7b8944c22e5deef4ec333194484db891130d683613e7ed9714e90f2c4ee77fed"
 metafile = true
 
 [[files]]
@@ -27614,6 +27619,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "0160cf6eda610a4408e9746211b418e969b951ee900b2ba9ad18c3c444f68eae"
+metafile = true
+
+[[files]]
+file = "mods/reforgium.pw.toml"
+hash = "fa67ee268eb8746d34bf965162c5a058da1ba465538ff0dce73da70c6c2d8902"
 metafile = true
 
 [[files]]

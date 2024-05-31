@@ -119,6 +119,9 @@ ServerEvents.recipes(event => {
 				`#forge:dyes/${colour}`
 			])
 		})
+
+		event.smithing(`refinedstorage:${name}crafting_grid`, `refinedstorage:${name}grid`, 'minecraft:crafting_table')
+		event.smithing(`refinedstorage:${name}fluid_grid`, `refinedstorage:${name}grid`, 'create:item_drain')
 	})
 
 	event.shaped('16x refinedstorage:cable', [
