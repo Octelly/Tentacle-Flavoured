@@ -96,6 +96,34 @@ ServerEvents.recipes(event => {
 					]),
 				]
 				).transitionalItem(item.incomplete.regular).loops(1)
+
+				if (item.complete.narrow) {
+					event.remove({ output: item.complete.narrow })
+					event.recipes.create.sequenced_assembly(`2x ${item.complete.narrow}`,
+						item.complete.regular, [
+						event.recipes.create.cutting(item.incomplete.narrow, item.incomplete.narrow),
+						event.recipes.create.deploying(item.incomplete.narrow, [
+							item.incomplete.narrow,
+							rail_material
+						]),
+						event.recipes.create.pressing(item.incomplete.narrow, item.incomplete.narrow)
+					]
+					).transitionalItem(item.incomplete.narrow).loops(1)
+				}
+
+				if (item.complete.wide) {
+					event.remove({ output: item.complete.wide })
+					event.recipes.create.sequenced_assembly(item.complete.wide,
+						item.complete.regular, [
+						event.recipes.create.cutting(item.incomplete.wide, item.incomplete.wide),
+						event.recipes.create.deploying(item.incomplete.wide, [
+							item.incomplete.wide,
+							sleeper
+						]),
+						event.recipes.create.pressing(item.incomplete.wide, item.incomplete.wide)
+					]
+					).transitionalItem(item.incomplete.wide).loops(1)
+				}
 			}
 		}
 	}

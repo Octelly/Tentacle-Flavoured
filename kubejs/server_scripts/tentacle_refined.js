@@ -4,7 +4,6 @@ let colours = ['white', 'orange', 'magenta', 'light_blue', 'lime', 'pink', 'purp
 
 const application = [
 	['refinedstorage:machine_casing', '#forge:stone', 'refinedstorage:quartz_enriched_iron'],
-	[]
 ]
 
 ServerEvents.recipes(event => {
@@ -123,6 +122,8 @@ ServerEvents.recipes(event => {
 		event.smithing(`refinedstorage:${name}crafting_grid`, `refinedstorage:${name}grid`, 'minecraft:crafting_table')
 		event.smithing(`refinedstorage:${name}fluid_grid`, `refinedstorage:${name}grid`, 'create:item_drain')
 	})
+
+	event.smithing('refinedstorage:orange_disk_manipulator', 'refinedstorage:machine_casing', 'create:precision_mechanism')
 
 	event.shaped('16x refinedstorage:cable', [
 		'QQQ',

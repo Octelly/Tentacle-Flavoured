@@ -434,7 +434,7 @@ hash = "2c6d16a8ba20fa1ce9e31908ec973667169744c18009331af3284d36124571ba"
 
 [[files]]
 file = "config/fancymenu/customization/newpausemenu.txt"
-hash = "2a061d3dcc90eb27135e33932696673eeff8a9f090c63a572021596af9d05be5"
+hash = "1609d24594f1a42ea789b40b400e560dc42612d105afc37b0696a9efe1e01d3d"
 
 [[files]]
 file = "config/fancymenu/customization/newtitle.txt"
@@ -26476,7 +26476,7 @@ hash = "797fac71eba5cc11adf9b6cf5a0771ef29fc310a23c34298facba8443f6669b3"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_refined.js"
-hash = "c1c13611fe411f42706e70b9a59bf8cc4a43170194048248a0641a793e94d2d2"
+hash = "d0a35f6afecb95f756043728b03b603cf9177cf7d804714073c6814183d5098f"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_storagedrawers.js"
@@ -26484,11 +26484,11 @@ hash = "4dde74be20e900d2c1b0e2f7027647d21cc5ead530b8f07da52fb25dbb004ecb"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_traintracks.js"
-hash = "499f3a74cd40fc9d714d3fafbcc8de2511cc94c913ee0e9a0497d88f45724e9e"
+hash = "370eebb16c75cab1ba068bdbe7b375196980d054a6d763598894928f060d6084"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_tweaks.js"
-hash = "66f38e1e5e8450c04614ff3cf1cfefba03c4d00b72b1bded6cbce04ebf8a66f7"
+hash = "65808399533171de9e6672e6ca23333605c93e0ef94e9abeeb9a379441ffed3b"
 
 [[files]]
 file = "kubejs/startup_scripts/block_break_speed_modify.js"
@@ -27154,11 +27154,6 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "bb4a29180017af09158e7035a320c8426538d81ba1d1078ac446009f51bbbe67"
-metafile = true
-
-[[files]]
-file = "mods/functional-storage.pw.toml"
-hash = "c877bae522c0c648069de28a63d3d1917dd68dd73b554ff97eb3478b48bdfc79"
 metafile = true
 
 [[files]]
