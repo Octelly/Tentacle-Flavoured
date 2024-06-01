@@ -9583,6 +9583,10 @@ file = "config/secondchanceforge-common.toml"
 hash = "c43e2a513965659162ceb703d04066b6811c08bad77de83a5202cce0d688cfc2"
 
 [[files]]
+file = "config/smallships-common.toml"
+hash = "fe547c49864051a9e901f5d2626491f670b1a47af95438036c0b59c6d0bf1a6c"
+
+[[files]]
 file = "config/smoothchunk-common.toml"
 hash = "a398566ff05125f7ebf431175d866babe6309c9fbee654db74fc869128a62f71"
 
@@ -9705,6 +9709,10 @@ hash = "ce708d8e2bead2aebfc4f4ad73494a6734729771e724c10ea3db4ec5e83d5380"
 [[files]]
 file = "defaultconfigs/create_enchantment_industry-server.toml"
 hash = "d8b3730acc1b09503c99e0f847c0f38ce18050db412fb43e8c3b4ede2bfb3245"
+
+[[files]]
+file = "defaultconfigs/curios-server.toml"
+hash = "99f5339dbe5a09ba0ad76c8e9203aff9a3904a717981689f9c6a91f6a5676cd0"
 
 [[files]]
 file = "defaultconfigs/easyanvils-server.toml"
@@ -26463,12 +26471,16 @@ file = "kubejs/server_scripts/tentacle_createaddition.js"
 hash = "7b3a6c0531c7d1eb083bd3006bf28f12131791c1540bc5614d3cbad99f40136b"
 
 [[files]]
+file = "kubejs/server_scripts/tentacle_magnets.js"
+hash = "46f31f4d1bb84122ded328d71903361fba0a94ce559c35f12733ab08753aa98c"
+
+[[files]]
 file = "kubejs/server_scripts/tentacle_mapperbase.js"
 hash = "22d22b3cfa5cff11a75b79745880f5014489856e194d32b2ab1001f6de8e2180"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_pipes.js"
-hash = "ca939e0eb6ead5d6b38794106f39621acd8b0527fd663b76edbc87ae8706dfe9"
+hash = "2d16e043779956f3e6413213ab46feb2d522dc53f2bd04886af4e1a6fc7642a7"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_project_red.js"
@@ -26477,6 +26489,10 @@ hash = "797fac71eba5cc11adf9b6cf5a0771ef29fc310a23c34298facba8443f6669b3"
 [[files]]
 file = "kubejs/server_scripts/tentacle_refined.js"
 hash = "d0a35f6afecb95f756043728b03b603cf9177cf7d804714073c6814183d5098f"
+
+[[files]]
+file = "kubejs/server_scripts/tentacle_ships.js"
+hash = "60efe75d9cf715799ee6f88323601df895af64063bf511abf3782bc4fe13701b"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_storagedrawers.js"
@@ -26922,6 +26938,16 @@ hash = "a91da14e84c3e8d4f225cad1cb2932cd026fb74fb5ffe85f714ba2d6cfafb447"
 metafile = true
 
 [[files]]
+file = "mods/curios-quark-oddities-backpack.pw.toml"
+hash = "f16abba95b4d1eda615f6494d9006d1086edeec2e24db2d24beab3c702b03c88"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "13576d3bc089e4e93299c691f9b0b50990d8b6fc7cb220304a31ee6eb0a9fe96"
+metafile = true
+
+[[files]]
 file = "mods/death-knell.pw.toml"
 hash = "439e431b83e17300c972daa62942a03d6c719739a0312af91f6984c33797ef47"
 metafile = true
@@ -27167,6 +27193,11 @@ hash = "d6168fefc3f3f16bd8a5a44ec78053d10d6b7d0be4938f4d9d2d29a3214d7014"
 metafile = true
 
 [[files]]
+file = "mods/gliders.pw.toml"
+hash = "0b8f6e37a66ff36e5b79115cbc2d61c25c94de2e2cbc99e836f2a85ee8686c91"
+metafile = true
+
+[[files]]
 file = "mods/heartstone.pw.toml"
 hash = "0e7d5ad70af110b7cf953e77001ced99c5bdf8d2774198fdcd52ea18456f0938"
 metafile = true
@@ -27233,7 +27264,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-obliterator.pw.toml"
-hash = "040f588f88c1ef69e88d7ca53d57ac150b2596138c84556b30206c6cadfffc18"
+hash = "a72633473a4c53ab7c74417cc5fcddea9da48d9c458ce4ea27e51663dba0d53e"
 metafile = true
 
 [[files]]
@@ -27533,22 +27564,22 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "33c50fc4d5786acda335e6a6cff549c1c7531d249421a484860851c86340895a"
+hash = "87396f32d80e36821961c3aac287c9411444473342de1e5d3b0afcba25ef8498"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "0f9522d3f30e282e16245bb2473f823d879718df842e1bbc539276216f217cac"
+hash = "962deafd2376b84ef4bffa450fafcf7296d76568e6c8c7f7640d197736b6b7ba"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "52da45c94743674a56b37b9f7c0bcd0dc0c460fae272103609521e85c80437fa"
+hash = "e7ee730e771adf1ba3abaf1ece9ddda61f1900eb5f242c5ba4f8ad21498aba1c"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "dfeb2fdd6201df1680b909871b084fa1e4731bc93d5d0d90739848500c966434"
+hash = "90c0fd341133f7f4fa3634b08dcb4567776de1f9de602e9a7948a53e691aeef8"
 metafile = true
 
 [[files]]
@@ -27589,6 +27620,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "d06f9962b29db69d2e8fb32940cf29471eb6230043dc5fb9d341af36148a09c3"
+metafile = true
+
+[[files]]
+file = "mods/radiant-gear.pw.toml"
+hash = "5b569d7e5f25135465de1392419a9f68cf8a5f72a1f05c9cf0b42ba6827a4ca2"
 metafile = true
 
 [[files]]
@@ -27672,6 +27708,16 @@ hash = "5ca3e837c2e605c07120ab4ae53c67a6693a79f256c87a5939d09b20a437b5c9"
 metafile = true
 
 [[files]]
+file = "mods/simple-magnets.pw.toml"
+hash = "1475cd893cd89ae965eaf3a0aafacb4885a426ecc75f78946d3411abb1a580b8"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "949448ca58e90fd2923c7e5f822a71b51aa55356af2f203789391c7dc16a9dcd"
+metafile = true
+
+[[files]]
 file = "mods/smidgeon-o-bliss.pw.toml"
 hash = "a32e15f6929fc553231c753348484a8a64c5ffa9d896bef123506c6a412c88ac"
 metafile = true
@@ -27728,7 +27774,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "1f20786408ae526f5df6a6cde7c04c4dd4afc2d87d5bc24a109687622f9db356"
+hash = "398222d52f12efff3677e283566822a2766a68d98267261c916eda974a899c27"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "e5b89a5f97fc7a69797e57c4916f3ed136aab638213ccc51202c3e290ccebe53"
 metafile = true
 
 [[files]]

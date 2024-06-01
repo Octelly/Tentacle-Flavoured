@@ -1,13 +1,13 @@
 name = "Item Obliterator [Forge/Neo/Fabric/Quilt]"
-filename = "Item_Obliterator-FORGE-MC1.19.2-1.6.2.jar"
+filename = "Item-Obliterator-Forge-1.19.2-2.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5a3e2efa51e1e327d170f31569de60fac0da76f0"
+hash = "afb3589590be38f112193de3019364d283772f50"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4861271
+file-id = 5384064
 project-id = 835861

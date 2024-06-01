@@ -1,0 +1,5 @@
+#List of curio slot type settings
+[[curiosSettings]]
+identifier = "body"
+size = 0
+override = true

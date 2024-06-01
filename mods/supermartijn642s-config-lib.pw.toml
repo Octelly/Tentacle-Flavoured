@@ -3,11 +3,11 @@ filename = "supermartijn642configlib-1.1.8-forge-mc1.19.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/LN9BxssP/versions/HHm0Di8Y/supermartijn642configlib-1.1.8-forge-mc1.19.jar"
 hash-format = "sha1"
 hash = "b63571ac8574efccc636b164512f110b756f5f1c"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4715406
-project-id = 438332
+[update.modrinth]
+mod-id = "LN9BxssP"
+version = "HHm0Di8Y"
