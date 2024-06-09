@@ -1,0 +1,13 @@
+name = "Noisium (Unofficial forge port)"
+filename = "noisium-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/JRYQR8rr/versions/f16ggOyj/noisium-1.0.2.jar"
+hash-format = "sha1"
+hash = "94650babe3bbe6f8aa0c82d415a4c7cabc20bed7"
+
+[update]
+[update.modrinth]
+mod-id = "JRYQR8rr"
+version = "f16ggOyj"

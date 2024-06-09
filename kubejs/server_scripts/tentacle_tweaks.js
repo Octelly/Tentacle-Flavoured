@@ -10,7 +10,5 @@ ServerEvents.recipes(event => {
 	//compacting('8x spelunkery:coal_lump', 'minecraft:coal')
 	//compacting('8x kubejs:charcoal_lump', 'minecraft:charcoal')
 
-	event.remove({ id: 'create_connected:crafting/kinetics/item_silo' })
-
 	event.recipes.create.pressing('create:zinc_ingot', 'copycats:copycat_block')
 })

@@ -85,6 +85,9 @@ to make editing this file much easier.
 	   	}
 	*/
   swapper: {
+    "roadstuff:asphalt": "trafficcraft:asphalt",
+    "roadstuff:concrete": "trafficcraft:concrete",
+    "roadstuff:bitumen_ore": "trafficcraft:bitumen_ore",
     "minecraft:chipped_anvil": "minecraft:anvil",
     "minecraft:damaged_anvil": "minecraft:anvil",
     "farmersdelight:rope": "supplementaries:rope",

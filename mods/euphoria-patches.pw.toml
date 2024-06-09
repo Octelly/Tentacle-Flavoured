@@ -1,18 +1,17 @@
 name = "Euphoria Patches"
-filename = "EuphoriaPatcher-0.3.0-forge.jar"
+filename = "EuphoriaPatcher-0.3.3-forge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4H6sumDB/versions/3d9gByqp/EuphoriaPatcher-0.3.0-forge.jar"
+url = "https://cdn.modrinth.com/data/4H6sumDB/versions/C1RuaSYE/EuphoriaPatcher-0.3.3-forge.jar"
 hash-format = "sha1"
-hash = "0e7fe92767d397fc724b130ac9ac5036d2626d34"
+hash = "1160ebb0d1c68bdfc1227c3aa158f4c13baca2d6"
 
 [update]
 [update.modrinth]
 mod-id = "4H6sumDB"
-version = "3d9gByqp"
+version = "C1RuaSYE"
 
 [option]
 optional = true
-default = false
 description = "Modded addon for Complementary shaders. Adds configurable (and turned off by default) additions such as twinkling stars, seasons tied to world time, better lava, bedrock noise, tonemapping and more."

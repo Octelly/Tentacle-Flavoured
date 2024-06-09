@@ -174,7 +174,7 @@ hash = "ea1f61b82c379cc3fb64c929a14547506f28c077cf77a695702430841f0b1a5b"
 
 [[files]]
 file = "config/blockswap/block_swap.json5"
-hash = "fe01fe537ebc38f719ffef4581998a8cffc6ff0f4b6287f37bc5d9a4c9ae23fa"
+hash = "2505272c45fc94837c77c676f02d54d9fda9d53be95b729475503a2e1600c0bf"
 
 [[files]]
 file = "config/blockswap/missing_block_ids.json5"
@@ -9480,6 +9480,34 @@ hash = "8468d5af721815f7545f624274522db61e3ad7e1e466fe1cfab855a5e8355726"
 [[files]]
 file = "config/openloader/resources/21_RaspberryResources/pack.mcmeta"
 hash = "ac9f14b008428dc25336fa7136a0b7c84291d61deb6974a0d1f991b1e47b9686"
+
+[[files]]
+file = "config/openloader/resources/22_tentacle-simplemagnets/assets/simplemagnets/models/advanced_demagnetization_coil.json"
+hash = "c80d25b036630dd0bc2b7c7b7e84fa3b724803c7d83d3ba180ed52678d9075ba"
+
+[[files]]
+file = "config/openloader/resources/22_tentacle-simplemagnets/assets/simplemagnets/models/basic_demagnetization_coil.json"
+hash = "866582fea3edb66a30ad73848f2439714948f9b7621c39c950f8ba7ff3297fd7"
+
+[[files]]
+file = "config/openloader/resources/22_tentacle-simplemagnets/assets/simplemagnets/textures/advanced_demagnetization_coil.png"
+hash = "8f74f42bb2aed7b18ca1db7769b7292759ca9da2c6c33636d7e959fd99d1965e"
+
+[[files]]
+file = "config/openloader/resources/22_tentacle-simplemagnets/assets/simplemagnets/textures/advancedmagnet.png"
+hash = "897749c801ee67ec8f82c3c5e07bf0c4ae5be1d1d3ed6e0a18bf62fb16808f0f"
+
+[[files]]
+file = "config/openloader/resources/22_tentacle-simplemagnets/assets/simplemagnets/textures/basic_demagnetization_coil.png"
+hash = "4818519849f34a88b4aefe7b1ec028436e0bac848a6234e4ac06dbdf3acf533b"
+
+[[files]]
+file = "config/openloader/resources/22_tentacle-simplemagnets/assets/simplemagnets/textures/basicmagnet.png"
+hash = "11b6bc93d821c5c3fde5a1946efa56d6ac30da618cc19a156da82ccd93b9f22e"
+
+[[files]]
+file = "config/openloader/resources/22_tentacle-simplemagnets/pack.mcmeta"
+hash = "abad8e6965998c0482ff79232e4ca37e274f810a96e0995c9c0e9b4e5121d848"
 
 [[files]]
 file = "config/openloader/resources/chaotix-apotheotic-tweaks.pw.toml"
@@ -26467,12 +26495,20 @@ file = "kubejs/server_scripts/tentacle_bitterballen.js"
 hash = "7e0fc84eb2bbfe1b9f127a85738ccf0f7b6a4b5bb2db5c1ab61154b73b529adb"
 
 [[files]]
+file = "kubejs/server_scripts/tentacle_cconnected.js"
+hash = "216e54fc396099c69641df435e06eff3ed760e923145ec4435f948056b44a410"
+
+[[files]]
 file = "kubejs/server_scripts/tentacle_createaddition.js"
 hash = "7b3a6c0531c7d1eb083bd3006bf28f12131791c1540bc5614d3cbad99f40136b"
 
 [[files]]
+file = "kubejs/server_scripts/tentacle_encased.js"
+hash = "e0362bb2a289d3fe4e9238ddab67257082ebfd39fc4631e6de4fdd2827095836"
+
+[[files]]
 file = "kubejs/server_scripts/tentacle_magnets.js"
-hash = "46f31f4d1bb84122ded328d71903361fba0a94ce559c35f12733ab08753aa98c"
+hash = "9cde5b0912f852c376e564398861930a7526360008d9d8196c7cd7563fbf6fd5"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_mapperbase.js"
@@ -26484,7 +26520,7 @@ hash = "2d16e043779956f3e6413213ab46feb2d522dc53f2bd04886af4e1a6fc7642a7"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_project_red.js"
-hash = "797fac71eba5cc11adf9b6cf5a0771ef29fc310a23c34298facba8443f6669b3"
+hash = "8b0b744f21b6e744f7954317b29654b815e23eb2eaa3f57b969a0f67e1a7cc13"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_refined.js"
@@ -26504,7 +26540,11 @@ hash = "370eebb16c75cab1ba068bdbe7b375196980d054a6d763598894928f060d6084"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_tweaks.js"
-hash = "65808399533171de9e6672e6ca23333605c93e0ef94e9abeeb9a379441ffed3b"
+hash = "af85e171914a8595401c734bd27f34e211badc4adf64b223a56e9ea19ba23361"
+
+[[files]]
+file = "kubejs/server_scripts/tentacle_vintage.js"
+hash = "b12e398b6c878f74116efaf33efe0b661f8e80d1526ce0a7dfe4fb8e71a148f7"
 
 [[files]]
 file = "kubejs/startup_scripts/block_break_speed_modify.js"
@@ -26843,6 +26883,11 @@ hash = "7b8944c22e5deef4ec333194484db891130d683613e7ed9714e90f2c4ee77fed"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "d2493cda0721ddca80f37aff224e0291256176c6b940a06268fdd3eef45b92a1"
+metafile = true
+
+[[files]]
 file = "mods/continents.pw.toml"
 hash = "edede622692f5c7c094ccb9ef04eceb1a096c707dc303e0c1b02750349f46a31"
 metafile = true
@@ -26874,7 +26919,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bitterballen.pw.toml"
-hash = "b7250a55fd2b4deac13c98420dd87877ffd08fe364b14ca58be02defae14ad83"
+hash = "de5f6460cf7fa03ffe4b96f011e7a179693710f3c6abeb6141c20bebf2e90859"
 metafile = true
 
 [[files]]
@@ -26903,13 +26948,28 @@ hash = "b7f3ab55bef4e2d6ae6073f6025e601bab56ff1411b0998b0fe56f13d4e58fe2"
 metafile = true
 
 [[files]]
+file = "mods/create-encased.pw.toml"
+hash = "2e99129522572252dc63a3fb4f9eb84d5e2e6450500b1f584928163ac2653e3d"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "e3fdd68be29336a999c4b2bca692a8314c9bb51f6b58f71fa577435a16410ae5"
 metafile = true
 
 [[files]]
+file = "mods/create-framed.pw.toml"
+hash = "d61c350c03cabc2503e28033b1da505e655159fa2ceebf2c1165a78fd7486947"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "a5016e54779043016fef005525571ad13db8a70a9b1dc3f6e51d8541ecd9cb19"
+metafile = true
+
+[[files]]
+file = "mods/create-vintage-improvements.pw.toml"
+hash = "709ece1ffd9c544abff451be3730ba8125d94199b14753a097b46c2e445a534c"
 metafile = true
 
 [[files]]
@@ -27009,7 +27069,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "d49b20d6841ee811b7f7cef4aae51dfa6b52c37f1fca15823699f45900152966"
+hash = "79fa162d256d7fca393251c1fed1fb512a176cb46920c62e9e9f7cb4b2a446d5"
 metafile = true
 
 [[files]]
@@ -27099,7 +27159,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "e5f17e8300ea3e4bcb40ae17969368f4907bf4246d9ba8088aa6c475e2ba58c8"
+hash = "933af336311359d7b4e3f8bab4d4577ba6866e2016e3afb4b24e7d0633dc4a8f"
 metafile = true
 
 [[files]]
@@ -27324,7 +27384,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "399a3ad58a1b6fb3beed878b667379a0002215ac728aa245df412c0ef1b9ed7e"
+hash = "f9a0baff44b25f6462f60b23876c677ba4c4c093fe2e7dd2793c9be55672e75d"
 metafile = true
 
 [[files]]
@@ -27340,6 +27400,11 @@ metafile = true
 [[files]]
 file = "mods/let-sleeping-dogs-lie.pw.toml"
 hash = "3bce1536c4f6d3d501167ed83efaa8cceb75be6fd1480a15d6e4f60ad86734c6"
+metafile = true
+
+[[files]]
+file = "mods/lightspeed.pw.toml"
+hash = "4a58810e9373dead7214ba727d484881315ccba44f449aeee97c69dde76ec8a0"
 metafile = true
 
 [[files]]
@@ -27388,6 +27453,11 @@ hash = "dee32dbc5c856b93e3d60c187ff4045be23dd0585fcca47cff72e7b11e9d49b7"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "27dd1ad380e2f72b71a484c297500e531703e292b2c555ec1e1fca958000aa2a"
 metafile = true
@@ -27404,7 +27474,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "01088f790773a03f31b2eaa82b74e831c21f9113c166b6141435796dfd0dd8ab"
+hash = "cdb2ffaf0ef8cc5b9344f1f201c4e389c228267d56aac7e1230e7d5d80a46179"
 metafile = true
 
 [[files]]
@@ -27468,6 +27538,11 @@ hash = "f9aacce691fc98b2d6a72c3c0fd4c5d1ee735f906fa9fceb45d20d823acac4e2"
 metafile = true
 
 [[files]]
+file = "mods/nerb.pw.toml"
+hash = "bb1a457b04dd29a7624c40290376d6e5252d8eb6c7aa22214a06c318c027b9e7"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "c16809bbd0291ca38cff60aaae308581f4e5dd19a418a8d679a08d3ae4dd2022"
 metafile = true
@@ -27485,6 +27560,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9055b4a92e2ea4ad8661c226f549040eb48ae535070942a3a95b019c08ca70f6"
+metafile = true
+
+[[files]]
+file = "mods/noisium-(unofficial-forge-port).pw.toml"
+hash = "3039bef387a7fd3d79dddd4a4ce11e55732846981826c1e4bba8d0483eda8ef2"
 metafile = true
 
 [[files]]
@@ -27594,7 +27674,7 @@ metafile = true
 
 [[files]]
 file = "mods/pv-addon-groups.pw.toml"
-hash = "26526bf2f83a832a8d311ceac0602be8c5c3ed495aaeaaaf4822c3c0f373c6ba"
+hash = "593cceee8782adc60098e13af526dc73bd2aaa9766a96b531f78fbbc9b9d8c34"
 metafile = true
 
 [[files]]
@@ -27723,6 +27803,11 @@ hash = "a32e15f6929fc553231c753348484a8a64c5ffa9d896bef123506c6a412c88ac"
 metafile = true
 
 [[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "f2a085afd975546ad59a627f4bfda191c7a0621c55da5ecc49196ff1a17a03f5"
+metafile = true
+
+[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "8d50dd4668b13a86e61d7c081e2892b64f19f2d79919020c5902d684e03522e0"
 metafile = true
@@ -27828,6 +27913,11 @@ hash = "1b7bbd84a0f5faa74a121b2f0fdda509595ea49a7305cebb54b775f603344b38"
 metafile = true
 
 [[files]]
+file = "mods/trafficcraft.pw.toml"
+hash = "b09e41721318fdd43f3bf76cf5e91c503281598ea46e4ccf069b3bdd14fa4dea"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "6b15f2723c9d69caadb5bdb95b03a7057d614ad7ed72835362f0511b586f6a88"
 metafile = true
@@ -27929,10 +28019,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "5975a2513ad3de7d0bc32684d907515d0566d8d312b609df8624f7dbc53442c8"
+hash = "41fbddad14b67a342e35eb7d2c96cfb555014c0f9c0e1e2866a3d2516a33c971"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+hash = "f1ce0778845c0a21e9ec09f582e16d4395d6a226e3eae95dfe8421c7a9ff4d83"
 metafile = true
