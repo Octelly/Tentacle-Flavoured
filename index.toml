@@ -9483,15 +9483,15 @@ hash = "ac9f14b008428dc25336fa7136a0b7c84291d61deb6974a0d1f991b1e47b9686"
 
 [[files]]
 file = "config/openloader/resources/22_tentacle-simplemagnets/assets/simplemagnets/models/advanced_demagnetization_coil.json"
-hash = "c80d25b036630dd0bc2b7c7b7e84fa3b724803c7d83d3ba180ed52678d9075ba"
+hash = "c4d542e458ac312d1e77cea4572c11d6a8f6dfa59f0a839bb15b8e03ebf7805a"
 
 [[files]]
 file = "config/openloader/resources/22_tentacle-simplemagnets/assets/simplemagnets/models/basic_demagnetization_coil.json"
-hash = "866582fea3edb66a30ad73848f2439714948f9b7621c39c950f8ba7ff3297fd7"
+hash = "4a55fdd251a8395c9023c4d667971ea0c28c2ff68ac457b6c4b326fb8df8df93"
 
 [[files]]
 file = "config/openloader/resources/22_tentacle-simplemagnets/assets/simplemagnets/textures/advanced_demagnetization_coil.png"
-hash = "8f74f42bb2aed7b18ca1db7769b7292759ca9da2c6c33636d7e959fd99d1965e"
+hash = "cb7775e235a1772ea1d212c1779e1549e9b37b45245f291e362e644545788519"
 
 [[files]]
 file = "config/openloader/resources/22_tentacle-simplemagnets/assets/simplemagnets/textures/advancedmagnet.png"
@@ -9499,7 +9499,7 @@ hash = "897749c801ee67ec8f82c3c5e07bf0c4ae5be1d1d3ed6e0a18bf62fb16808f0f"
 
 [[files]]
 file = "config/openloader/resources/22_tentacle-simplemagnets/assets/simplemagnets/textures/basic_demagnetization_coil.png"
-hash = "4818519849f34a88b4aefe7b1ec028436e0bac848a6234e4ac06dbdf3acf533b"
+hash = "787105e11b9689ad5266865317428af1395e751a027ba101611d66d25788efc6"
 
 [[files]]
 file = "config/openloader/resources/22_tentacle-simplemagnets/assets/simplemagnets/textures/basicmagnet.png"
