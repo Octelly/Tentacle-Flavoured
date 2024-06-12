@@ -9510,6 +9510,23 @@ file = "config/openloader/resources/22_tentacle-simplemagnets/pack.mcmeta"
 hash = "abad8e6965998c0482ff79232e4ca37e274f810a96e0995c9c0e9b4e5121d848"
 
 [[files]]
+file = "config/openloader/resources/23_tentacle-computercraft/assets/createaddition/models/block/digital_adapter/block.json"
+hash = "69bdd39dfddc098e5ec129af7d0bb8e385bf9f120f682a60ab511f36e701e139"
+
+[[files]]
+file = "config/openloader/resources/23_tentacle-computercraft/assets/createaddition/textures/block/digital_adapter/block.png"
+hash = "70388c1f083f5f7281511ca195ea0f55bcf440dd2ed7f566c5497c66cf86e7c4"
+
+[[files]]
+file = "config/openloader/resources/23_tentacle-computercraft/pack.mcmeta"
+hash = "73887e7101da3134a9a0d33e76e17bc90d82e69c3e542f87ed19adf10f32e605"
+
+[[files]]
+file = "config/openloader/resources/ccc.pw.toml"
+hash = "697eb45ce873920529f7b74c0e55a09f7b093769478d0140e4cf4a5ffb4696ce"
+metafile = true
+
+[[files]]
 file = "config/openloader/resources/chaotix-apotheotic-tweaks.pw.toml"
 hash = "20adb9ea7a89f2b3ba486a25135edf1063c40fa610f90cc7466497cf95961fe3"
 metafile = true
@@ -26497,6 +26514,10 @@ hash = "7e0fc84eb2bbfe1b9f127a85738ccf0f7b6a4b5bb2db5c1ab61154b73b529adb"
 [[files]]
 file = "kubejs/server_scripts/tentacle_cconnected.js"
 hash = "216e54fc396099c69641df435e06eff3ed760e923145ec4435f948056b44a410"
+
+[[files]]
+file = "kubejs/server_scripts/tentacle_computercraft.js"
+hash = "0aa479361fd054736525092e24e846f6177bd4c9128ed6b8d8bd276f5b0e5412"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_createaddition.js"

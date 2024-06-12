@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+	  "down": "cccbridge:block/source_target_block_vertical",
+	  "east": "createaddition:block/digital_adapter/block",
+	  "north": "createaddition:block/digital_adapter/block",
+	  "particle": "createaddition:block/digital_adapter/block",
+	  "south": "createaddition:block/digital_adapter/block",
+	  "up": "cccbridge:block/source_target_block_vertical",
+	  "west": "createaddition:block/digital_adapter/block"
+	}
+  }
