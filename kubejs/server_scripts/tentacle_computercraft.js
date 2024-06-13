@@ -141,5 +141,5 @@ ServerEvents.recipes(event => {
 	event.smithing('computercraft:disk_drive', 'minecraft:polished_andesite', '#forge:plates/iron').id('computercraft:disk_drive')
 
 	event.smithing('computercraft:monitor_normal', 'minecraft:polished_andesite', 'supplementaries:crystal_display').id('computercraft:monitor_normal')
-	event.smithing('computercraft:monitor_advanced', '#forge:storage_blocks/brass', 'supplementaries:crystal_display').id('computercraft:monitor_advanced')
+	event.smithing('computercraft:monitor_advanced', 'create:brass_casing', 'supplementaries:crystal_display').id('computercraft:monitor_advanced')
 })

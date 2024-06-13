@@ -174,7 +174,7 @@ hash = "ea1f61b82c379cc3fb64c929a14547506f28c077cf77a695702430841f0b1a5b"
 
 [[files]]
 file = "config/blockswap/block_swap.json5"
-hash = "2505272c45fc94837c77c676f02d54d9fda9d53be95b729475503a2e1600c0bf"
+hash = "da02236948c0ca9f0ee8d381f551bbf91c50cfeedfc75fca5c4db516d16726d3"
 
 [[files]]
 file = "config/blockswap/missing_block_ids.json5"
@@ -9658,6 +9658,10 @@ hash = "b9e6677147f1a781c69f3482fbd9cabe750174f2637bf46714dbfad159f5954c"
 [[files]]
 file = "config/spyglass_improvements-client.toml"
 hash = "5a734ef5c18f827eddeb3fb9c731ab3b6c790f9d767eac173554effa6ceed22c"
+
+[[files]]
+file = "config/storagedrawers-common.toml"
+hash = "2a8f788555d21640894ed98a99024a6d274d810724f760b4506f5e2828f6a55e"
 
 [[files]]
 file = "config/structureessentials.json"
@@ -26513,7 +26517,7 @@ hash = "216e54fc396099c69641df435e06eff3ed760e923145ec4435f948056b44a410"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_computercraft.js"
-hash = "0aa479361fd054736525092e24e846f6177bd4c9128ed6b8d8bd276f5b0e5412"
+hash = "bc17ce56cdd7e7d9ffc6555952079cc5fd743c26cd223fa4e769c62eeeb535cc"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_createaddition.js"
@@ -26561,7 +26565,7 @@ hash = "af85e171914a8595401c734bd27f34e211badc4adf64b223a56e9ea19ba23361"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_vintage.js"
-hash = "b12e398b6c878f74116efaf33efe0b661f8e80d1526ce0a7dfe4fb8e71a148f7"
+hash = "496be935910f9289f42f4c5085e996b5a11dc6832f0f0c3694183c4814720485"
 
 [[files]]
 file = "kubejs/startup_scripts/block_break_speed_modify.js"
@@ -27460,11 +27464,6 @@ hash = "edf56dd65ed38458e9d578083ddbfa4683005c7648af7ac47ae88a873f7a1285"
 metafile = true
 
 [[files]]
-file = "mods/mapper-base.pw.toml"
-hash = "2f75d8415989012bedfce7d7903fe4aee6310d53e7eedcc4a7c4900cdcf9fdc0"
-metafile = true
-
-[[files]]
 file = "mods/melody.pw.toml"
 hash = "dee32dbc5c856b93e3d60c187ff4045be23dd0585fcca47cff72e7b11e9d49b7"
 metafile = true
@@ -27767,11 +27766,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "aec4286f0e205df1d35997fe6f73e8daf5130768e1cbe39c1c73a2339f020b39"
-metafile = true
-
-[[files]]
-file = "mods/road-stuff.pw.toml"
-hash = "51e599f2db984a1c92fd4c21b2178127d14090cf80065308741afaf59a030180"
 metafile = true
 
 [[files]]
