@@ -14696,10 +14696,6 @@ file = "kubejs/data/farmersdelight/loot_modifiers/straw_from_grass.json"
 hash = "48929749456a2f2e0789ca7230c018b28f756516573369d7cda23d1a98cd7af4"
 
 [[files]]
-file = "kubejs/data/farmersdelight/loot_modifiers/straw_from_tall_dead_bush.json"
-hash = "4eaef17645ad4f7773374c00bd0e3852313dbe00ad424641f63ee421bd86d283"
-
-[[files]]
 file = "kubejs/data/farmersdelight/loot_modifiers/straw_from_tall_grass.json"
 hash = "73a3f9c4a10cbd776b4a7b8246b2ce3ba776a7bdbb38f9532b4e2a26ef959725"
 
