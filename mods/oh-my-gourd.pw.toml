@@ -1,0 +1,13 @@
+name = "Oh My Gourd!"
+filename = "omgourd-1.19.2-4.3.0.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bUNifErl/versions/6wUddnfy/omgourd-1.19.2-4.3.0.16.jar"
+hash-format = "sha1"
+hash = "6ba849d305f9ab7b066c7183162b4f02306cb00c"
+
+[update]
+[update.modrinth]
+mod-id = "bUNifErl"
+version = "6wUddnfy"

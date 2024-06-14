@@ -26615,7 +26615,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
-hash = "f6c396efb07ac716093da60cf3b80c27184659c5bb180695b1a96481fe968eef"
+hash = "50404e340820fca6fd724d28638b32f1a078d2a261f478cd94a78bc9c09f2925"
 metafile = true
 
 [[files]]
@@ -26880,7 +26880,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
-hash = "09796a48f3857c1f41280849c100baff40631035f64e79d494b2a0538a7676fb"
+hash = "828e6940eb60f08488cb0b477530ea82bd3ec631547a279590603cf7e20de9ff"
 metafile = true
 
 [[files]]
@@ -27594,6 +27594,11 @@ hash = "d86c1c133af3e81fa8e2e1420a9fd135feca4b61091d59c8b8a27f76c387eda2"
 metafile = true
 
 [[files]]
+file = "mods/oh-my-gourd.pw.toml"
+hash = "b97ff4e97afdc11513283f41802fd1dd01527bbc8448b176e857a4bce909be93"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "9c230cfdee2ba357a8201621adbee4b946f75a8e5f3c7d6360f74e6886959be4"
 metafile = true
@@ -27625,7 +27630,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "572ec03e6ea4beab2adc0b8e9681458d38e11b7ccffd0d394d4944cc8a74efa8"
+hash = "599e657445c739a45a1b2fdcca665ad9ea34d0d2f441da9dd3951e06e2eb16a1"
 metafile = true
 
 [[files]]
@@ -27805,7 +27810,7 @@ metafile = true
 
 [[files]]
 file = "mods/small-ships.pw.toml"
-hash = "949448ca58e90fd2923c7e5f822a71b51aa55356af2f203789391c7dc16a9dcd"
+hash = "ec467264ebde214f185c205bcd7be71e1251ed91ff19dcccbd5fab1181e5fff2"
 metafile = true
 
 [[files]]
