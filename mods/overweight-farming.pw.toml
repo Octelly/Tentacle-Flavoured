@@ -1,0 +1,13 @@
+name = "Overweight Farming"
+filename = "overweightfarming-1.19.2-2.0.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bCxmmxKN/versions/HwaPTwXt/overweightfarming-1.19.2-2.0.1-forge.jar"
+hash-format = "sha1"
+hash = "3a58f713f641bc2eb1c7dd64ec641d1c26358018"
+
+[update]
+[update.modrinth]
+mod-id = "bCxmmxKN"
+version = "HwaPTwXt"

@@ -27609,6 +27609,11 @@ hash = "d694a3b09dd40d557633a2ca0707f2f6ecaf04c62f539ce159435159f73d42c6"
 metafile = true
 
 [[files]]
+file = "mods/overweight-farming.pw.toml"
+hash = "ab6f5bc432790cf034fbd7a89a2e0af6144900e5b2774afd95bdbc643af99ce9"
+metafile = true
+
+[[files]]
 file = "mods/panorama-screens.pw.toml"
 hash = "9a83c7195fb1dd7ed9868a0b24ce9c9c9ac244c5a80aeb6ac28da51711f75e60"
 metafile = true
