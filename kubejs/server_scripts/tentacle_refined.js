@@ -190,6 +190,12 @@ ServerEvents.recipes(event => {
 		M: 'refinedstorage:machine_casing'
 	})
 
+
+	event.smithing('refinedstorage:upgrade', 'refinedstorage:quartz_enriched_iron', '#forge:nuggets/gold')
+
+	event.recipes.create.filling('refinedstorage:speed_upgrade', [Fluid.of('create:potion', 250).withNBT({
+		Potion: 'minecraft:swiftness'
+	}), 'refinedstorage:upgrade'])
 })
 
 BlockEvents.rightClicked('', event => {

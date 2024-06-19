@@ -26545,7 +26545,7 @@ hash = "8b0b744f21b6e744f7954317b29654b815e23eb2eaa3f57b969a0f67e1a7cc13"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_refined.js"
-hash = "d0a35f6afecb95f756043728b03b603cf9177cf7d804714073c6814183d5098f"
+hash = "eb6943845cd51093b9708897a2e783696ba8b062fc5805b599c3878da99d4a8c"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_ships.js"
