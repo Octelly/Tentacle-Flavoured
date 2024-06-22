@@ -121,6 +121,7 @@ ServerEvents.recipes(event => {
 
 		event.smithing(`refinedstorage:${name}crafting_grid`, `refinedstorage:${name}grid`, 'minecraft:crafting_table')
 		event.smithing(`refinedstorage:${name}fluid_grid`, `refinedstorage:${name}grid`, 'create:item_drain')
+		event.smithing(`refinedstorage:${name}pattern_grid`, `refinedstorage:${name}grid`, 'refinedstorage:pattern')
 	})
 
 	event.smithing('refinedstorage:orange_disk_manipulator', 'refinedstorage:machine_casing', 'create:precision_mechanism')
@@ -196,6 +197,22 @@ ServerEvents.recipes(event => {
 	event.recipes.create.filling('refinedstorage:speed_upgrade', [Fluid.of('create:potion', 250).withNBT({
 		Potion: 'minecraft:swiftness'
 	}), 'refinedstorage:upgrade'])
+
+	event.shapeless('refinedstorage:pattern', [
+		'create:sturdy_sheet',
+		'refinedstorage:quartz_enriched_iron'
+	])
+
+	event.recipes.create.mechanical_crafting('refinedstorage:red_crafter', [
+		'CPC',
+		'CSC',
+		'CVC'
+	], {
+		C: 'create:mechanical_crafter',
+		P: 'refinedstorage:advanced_processor',
+		S: 'refinedstorage:machine_casing',
+		V: 'create:item_vault'
+	})
 })
 
 BlockEvents.rightClicked('', event => {

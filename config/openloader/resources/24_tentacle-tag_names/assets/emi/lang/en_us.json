@@ -1,0 +1,28 @@
+{
+  "tag.item.apotheosis.infused_shelves": "Infused Shelves",
+
+  "tag.item.atmospheric.cochineal_food": "Cochineal Food",
+  "tag.item.autumnity.snail_food": "Snail Food",
+  "tag.item.autumnity.snail_snacks": "Snail Snacks",
+
+  "tag.item.atmospheric.aspen_logs": "Aspen Logs",
+  "tag.item.atmospheric.grimwood_logs": "Grimwood Logs",
+  "tag.item.atmospheric.kousa_logs": "Kousa Logs",
+  "tag.item.atmospheric.laurel_logs": "Laurel Logs",
+  "tag.item.atmospheric.morado_logs": "Morado Logs",
+  "tag.item.atmospheric.rosewood_logs": "Rosewood Logs",
+  "tag.item.atmospheric.yucca_logs": "Yucca Logs",
+  "tag.item.autumnity.maple_logs": "Maple Logs",
+
+  "tag.item.chalk.glowings": "Glowings",
+  "tag.item.computercraft.computer": "Computers",
+  "tag.item.computercraft.monitor": "Monitors",
+  "tag.item.computercraft.turtle": "Turtles",
+  "tag.item.computercraft.wired_modem": "Wired Modems",
+
+  "tag.item.forge.berries": "Berries",
+  "tag.item.forge.books": "Books",
+  "tag.item.forge.bookshelves": "Bookshelves",
+  "tag.item.forge.boots": "Boots",
+  "tag.item.forge.chalks": "Chalks"
+}

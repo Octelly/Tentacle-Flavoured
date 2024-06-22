@@ -9522,6 +9522,14 @@ file = "config/openloader/resources/23_tentacle-computercraft/pack.mcmeta"
 hash = "73887e7101da3134a9a0d33e76e17bc90d82e69c3e542f87ed19adf10f32e605"
 
 [[files]]
+file = "config/openloader/resources/24_tentacle-tag_names/assets/emi/lang/en_us.json"
+hash = "cd69dc7361ed12cc141137d6b65d6f211d8ae31d0969f68562c58a840dbc9e92"
+
+[[files]]
+file = "config/openloader/resources/24_tentacle-tag_names/pack.mcmeta"
+hash = "2bf12f8bda85f4d4cdc75eaa020ce87cc55f440a0c591a37f76ee1f5b5b2c394"
+
+[[files]]
 file = "config/openloader/resources/ccc.pw.toml"
 hash = "697eb45ce873920529f7b74c0e55a09f7b093769478d0140e4cf4a5ffb4696ce"
 metafile = true
@@ -9778,6 +9786,10 @@ hash = "932f513e38acae8c2a37a26097f3ddcc2d2de156780c971e4611e4039bb09fab"
 [[files]]
 file = "defaultconfigs/hourglass-server.toml"
 hash = "e3859e3b593683bfd184861ec746f97c31544a8eeb959fd0146de0f73ba2aafe"
+
+[[files]]
+file = "defaultconfigs/refinedstorage-server.toml"
+hash = "37ec3cf23b3fbf7ef9a98bbcd5649c3a9fabe6c90a829a1ecb392015d3937259"
 
 [[files]]
 file = "defaultconfigs/rrp.properties"
@@ -26545,7 +26557,7 @@ hash = "8b0b744f21b6e744f7954317b29654b815e23eb2eaa3f57b969a0f67e1a7cc13"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_refined.js"
-hash = "eb6943845cd51093b9708897a2e783696ba8b062fc5805b599c3878da99d4a8c"
+hash = "6e9c88a70b8aaf4bb075abdb3b1c0de4d539f979e4239809a022e79d732fbaf0"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_ships.js"
@@ -26561,7 +26573,7 @@ hash = "370eebb16c75cab1ba068bdbe7b375196980d054a6d763598894928f060d6084"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_tweaks.js"
-hash = "af85e171914a8595401c734bd27f34e211badc4adf64b223a56e9ea19ba23361"
+hash = "e41810160dd4cd864f6c71ee3426aa07720ac84c53f749df052d85798002e77f"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_vintage.js"
@@ -26885,7 +26897,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "01cfdc98d1402bec4c99c8b4a854876a23d197906c5f00989d3a3e13fdddd90e"
+hash = "840b1b823f16f5e702b3c84bcc54ab7c9dae51131f63bf53dc2c5f61c4d8acc2"
 metafile = true
 
 [[files]]
@@ -26925,7 +26937,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "3c3974d8ef305000e872e9571f77d3d4783804aef6e16c6968cd20c63c727b28"
+hash = "ef88b47ee02cfcb84a828ea96354ac38e1134eb8a2c5ef17514ea92d37cc7e34"
 metafile = true
 
 [[files]]
@@ -26940,7 +26952,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bitterballen.pw.toml"
-hash = "de5f6460cf7fa03ffe4b96f011e7a179693710f3c6abeb6141c20bebf2e90859"
+hash = "ae492b327dd249474dc1e0d04fb604dad90362b8dd837438b4a3921480fc4d00"
 metafile = true
 
 [[files]]
@@ -26970,7 +26982,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "2e99129522572252dc63a3fb4f9eb84d5e2e6450500b1f584928163ac2653e3d"
+hash = "92361d5492216d5f85c239f6d85526a6a428252f67490fd9dc3dbacd8d477126"
 metafile = true
 
 [[files]]
@@ -26990,7 +27002,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-vintage-improvements.pw.toml"
-hash = "709ece1ffd9c544abff451be3730ba8125d94199b14753a097b46c2e445a534c"
+hash = "0b1dd5d65f2842d308e298014fe11eeb6236cd9a1898bc3ab5b031ed8f5ca316"
 metafile = true
 
 [[files]]
@@ -27135,7 +27147,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "286b736b8cddcf372e861149a3af19778473e7be1004fb1fc3a43ce5903daade"
+hash = "d3901bca4ec077c8ce3d5756b5c40727fa5dd6e31fc07c0d7fbda4a109501883"
 metafile = true
 
 [[files]]
@@ -27325,7 +27337,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-control.pw.toml"
-hash = "c8230042ff5b85b2a63ffdb5c2cb83d504186a68564bbed188480a7a83617bc9"
+hash = "29605d4c5b5d44c0c3320070b8b8a8ed39aa903b444810bd6b5a141d7b7bbc85"
 metafile = true
 
 [[files]]
@@ -27350,7 +27362,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e0581e9e0997c120db5f3e08b760e4258220284dbfbeb94a237ee6bbab4b277e"
+hash = "e091341bf6ba7eed6700d6997c364bd5293ecbfefe37fea9a84bb725f59318b0"
 metafile = true
 
 [[files]]
@@ -27585,7 +27597,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "7ef1e77a40445db34f50b1f36c250abb2c75da454ac0dac4dd52cd27a5726bf3"
+hash = "e2fd088cd761f6c9ee6b94cd9c667842b4d6ffd515f8ed5fc18299c7eb96f31d"
 metafile = true
 
 [[files]]
@@ -27670,22 +27682,22 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "87396f32d80e36821961c3aac287c9411444473342de1e5d3b0afcba25ef8498"
+hash = "4f613f5eb20a3095e3ca3d5d05814f1cbe595eba9c7a3bae1ffd3d593393c8f8"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "962deafd2376b84ef4bffa450fafcf7296d76568e6c8c7f7640d197736b6b7ba"
+hash = "0ba6b8446de085f3dd57677ed0b6fb6f41b664df4894ad97d61181585d14f56f"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "e7ee730e771adf1ba3abaf1ece9ddda61f1900eb5f242c5ba4f8ad21498aba1c"
+hash = "fc6df185faebf2cd7bd16e937539932f6401b04ff33cd6b4d066c3e17072af06"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "90c0fd341133f7f4fa3634b08dcb4567776de1f9de602e9a7948a53e691aeef8"
+hash = "29e6b478f6cd43867e9e3b5bd1f79fba7cc56005aeddd673ecaa6b4ac68f9fb4"
 metafile = true
 
 [[files]]
@@ -27815,7 +27827,7 @@ metafile = true
 
 [[files]]
 file = "mods/small-ships.pw.toml"
-hash = "ec467264ebde214f185c205bcd7be71e1251ed91ff19dcccbd5fab1181e5fff2"
+hash = "d2e2cb505eef2c68b4204e5efdb6a9acd0f2e5a5f0d3dc6613784c8b46438a28"
 metafile = true
 
 [[files]]

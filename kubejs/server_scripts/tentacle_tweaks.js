@@ -12,3 +12,8 @@ ServerEvents.recipes(event => {
 
 	event.recipes.create.pressing('create:zinc_ingot', 'copycats:copycat_block')
 })
+
+ServerEvents.tags('item', event => {
+	// How did this even happen?
+	event.remove('forge:nuggets/electrum', 'oreganized:electrum_ingot')
+})
