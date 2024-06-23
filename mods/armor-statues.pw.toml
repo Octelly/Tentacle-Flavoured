@@ -1,0 +1,13 @@
+name = "Armor Statues"
+filename = "ArmorStatues-v4.0.8-1.19.2-Forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bbGCtEvb/versions/ASuYpCVK/ArmorStatues-v4.0.8-1.19.2-Forge.jar"
+hash-format = "sha1"
+hash = "c80e1d459f65aa96cfe66cc59279861f2edde370"
+
+[update]
+[update.modrinth]
+mod-id = "bbGCtEvb"
+version = "ASuYpCVK"

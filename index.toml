@@ -26682,6 +26682,11 @@ hash = "3bea0442d74ad9116aa556afd0b84b54ecfd9504af3dabd914c829728082a34c"
 metafile = true
 
 [[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "aa8ff6a05cb7ec70198cb696b844f5c9fdb5a7c3159352b9be35feedd76b2a19"
+metafile = true
+
+[[files]]
 file = "mods/astikorcarts.pw.toml"
 hash = "1288e6c671796e9fe57239fc7aaa8d6b078c2d52ceb845406eb83b6643b6ac61"
 metafile = true
@@ -27879,6 +27884,11 @@ metafile = true
 [[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "df0cd54e65166c6ed018f5decdf5a7c061a9d496dd2b986d575cfb4b3c9e8b54"
+metafile = true
+
+[[files]]
+file = "mods/straw-statues.pw.toml"
+hash = "3b6fcc3283d613255173c3c3110f5d37bc709b90af4cd0437d7d900619d48771"
 metafile = true
 
 [[files]]
