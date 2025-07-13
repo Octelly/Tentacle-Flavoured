@@ -27108,7 +27108,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "e8522704a705980fdc5e35a8c8cb4083fa8cd1a20ac358b6e4c5f8a898f071eb"
+hash = "54a5412dd4a7f925015ae68adbf4bcc0342b4d46d7f4f6d0be4476ba0ecbec1b"
 metafile = true
 
 [[files]]
@@ -27138,17 +27138,17 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "1fce6559c1c89a4924d9947997072d8613a2dec123aa160247b22a0e0052a29d"
+hash = "c24f52cac1754f1c4632becc987ed39cd5a31c49b79e6a351149b343ac26374b"
 metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "35afe20af05255f69c2d9914c8de42dc45f400d694430f48431d234844a2d562"
+hash = "106c786c53a0f845257202fc4845f8a326e0aaef1f84317be6f615975747418c"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "d3901bca4ec077c8ce3d5756b5c40727fa5dd6e31fc07c0d7fbda4a109501883"
+hash = "dd033efae62bb08a65be672b27ef00c1eea5c6c16d0aa2ef72185bce3077983a"
 metafile = true
 
 [[files]]
@@ -27193,7 +27193,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "933af336311359d7b4e3f8bab4d4577ba6866e2016e3afb4b24e7d0633dc4a8f"
+hash = "f95801da9dde6c48e3a0032a287af9afb2f73de332406cae9773bd22e3f8fc26"
 metafile = true
 
 [[files]]
@@ -27248,7 +27248,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "13515ee541a2e62c359e4fc85a51bc99b4d1cd088898911a264e5ca0d5c2d15d"
+hash = "a2050ac9ac1a889d1b66fdba07a1e0282c0d34e2335ec6b71a5cb78d1c790b76"
 metafile = true
 
 [[files]]
@@ -27353,7 +27353,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "de0386e6c0ea00c0556d416f63571625bb0ca7f54e5bcb4858810f9f5ee6bd7b"
+hash = "a6168b0675107b8e3afec890dfaffbd8f1d4e95d36df6b86c0fe6e0b735e38fc"
 metafile = true
 
 [[files]]
@@ -27363,7 +27363,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e091341bf6ba7eed6700d6997c364bd5293ecbfefe37fea9a84bb725f59318b0"
+hash = "c39604297733f1aa12595bd4d4412734f6c4be7c8960d04fa841ba6e3d83cc03"
 metafile = true
 
 [[files]]
@@ -27648,7 +27648,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "599e657445c739a45a1b2fdcca665ad9ea34d0d2f441da9dd3951e06e2eb16a1"
+hash = "b4723bcc0b557524e587152ec5212675a6d603ddf065cb521d7a41361be991e2"
 metafile = true
 
 [[files]]
@@ -27713,17 +27713,17 @@ metafile = true
 
 [[files]]
 file = "mods/pv-addon-groups.pw.toml"
-hash = "593cceee8782adc60098e13af526dc73bd2aaa9766a96b531f78fbbc9b9d8c34"
+hash = "43c15115aa3a05912a943f022bb850e72931fe8f4e01c005181dc99a673cb527"
 metafile = true
 
 [[files]]
 file = "mods/pv-addon-sculk.pw.toml"
-hash = "7e4efbc1a0ceaddda1c222e48b754a43af8b3e4791dc31a79640571dab1bc92d"
+hash = "e84f6882e1c10af15fe433dd60cd9855c9dd6fbd363bab99732e760467b04754"
 metafile = true
 
 [[files]]
 file = "mods/pv-addon-soundphysics.pw.toml"
-hash = "699022f3c6f29cdc0aa6c629f46b087f1b2a65766cf14f1889c8f61c4c83cc9a"
+hash = "3a74619a6bffdff64959073e38393bed1c79ccee30b87e4d88f018ae0c2efa04"
 metafile = true
 
 [[files]]
@@ -27858,7 +27858,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "42b217fd872b27710b2efe48adf24fee5779391386b11af07f08074053caa69b"
+hash = "d5776199f804027b8afb5204444118fed8895a6941385e5279dee5b578aa3e89"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "pv-addon-sculk"
-filename = "pv-addon-sculk-1.0.0.jar"
-side = "both"
+filename = "pv-addon-sculk-1.1.0.jar"
+side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/7dI2zrDy/versions/4cbt9v7v/pv-addon-sculk-1.0.0.jar"
-hash-format = "sha1"
-hash = "d1cf7d98f92b813fe3a1326efe7ba54df6fcc55c"
+url = "https://cdn.modrinth.com/data/7dI2zrDy/versions/HmseAzbt/pv-addon-sculk-1.1.0.jar"
+hash-format = "sha512"
+hash = "24d5ed01c28590a1700979741c98eef98e65062ca2df28052578eee5bddb7d4c61b75345e54c0f872788c2f7f99e3f713894df845479ffcc7fc429283c179852"
 
 [update]
 [update.modrinth]
 mod-id = "7dI2zrDy"
-version = "4cbt9v7v"
+version = "HmseAzbt"
