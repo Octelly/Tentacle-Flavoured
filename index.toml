@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CNAME"
+hash = "b0ba5fd1384fb784b66f12e19a09d832656dab80f1da654096df08280efee0f3"
+
+[[files]]
 file = "config/FFBB-common.toml"
 hash = "189ab5fb5d4ed3a17236a137d7a00df3d61e6d3a8c45e3cee4c6b40e810f751b"
 
@@ -27533,7 +27537,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
+hash = "65847d25954b387800944c72231b44cf3eeb8ebc2f43238f39ccbd76cf9c6a4d"
 metafile = true
 
 [[files]]
