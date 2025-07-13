@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CNAME"
-hash = "b0ba5fd1384fb784b66f12e19a09d832656dab80f1da654096df08280efee0f3"
-
-[[files]]
 file = "config/FFBB-common.toml"
 hash = "189ab5fb5d4ed3a17236a137d7a00df3d61e6d3a8c45e3cee4c6b40e810f751b"
 
