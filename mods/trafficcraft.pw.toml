@@ -1,13 +1,13 @@
 name = "TrafficCraft"
-filename = "trafficcraft-1.0.4-1.19.2.jar"
+filename = "trafficcraft-forge-1.19.2-1.1.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Y1PXWvWn/versions/w4hYwnra/trafficcraft-1.0.4-1.19.2.jar"
-hash-format = "sha1"
-hash = "1af87f94317819e56a12470adbfaf426d241c78c"
+url = "https://cdn.modrinth.com/data/Y1PXWvWn/versions/oPsWzykE/trafficcraft-forge-1.19.2-1.1.3.jar"
+hash-format = "sha512"
+hash = "d276f1730d618fbe58daac8e338d7bdf33ebeb8416af5418f1b1f3b2d800564f19390a3abdc9c171bcaae697612443879d486976402abace070aaf50711c9791"
 
 [update]
 [update.modrinth]
 mod-id = "Y1PXWvWn"
-version = "w4hYwnra"
+version = "oPsWzykE"

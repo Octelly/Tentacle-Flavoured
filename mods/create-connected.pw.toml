@@ -1,13 +1,13 @@
 name = "Create: Connected"
-filename = "create_connected-0.8.2-mc1.19.2-all.jar"
+filename = "create_connected-0.9.4-mc1.19.2-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f1e1352d931e7e266ffa7826f44ef972ff5af36c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Vg5TIO6d/versions/CLTrW9A5/create_connected-0.9.4-mc1.19.2-all.jar"
+hash-format = "sha512"
+hash = "e464cfa8ec222c01d273fc873f127e25f2292f9d4dbb215b0de7c54d837a5a775115d955303079a1588f3a39ccf1df1bbdbd25d0c90acaf4932f50b80bc0eddc"
 
 [update]
-[update.curseforge]
-file-id = 5381719
-project-id = 947914
+[update.modrinth]
+mod-id = "Vg5TIO6d"
+version = "CLTrW9A5"

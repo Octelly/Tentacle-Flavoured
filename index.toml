@@ -26658,7 +26658,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "16c832bfc074f3b149e6f1704af0b04b3500aa0697d92c2f2310756fc0c41c13"
+hash = "af354beaabc9ef12ff999af6bde0027cb3d56fd643a73b91474c087d75f65feb"
 metafile = true
 
 [[files]]
@@ -26938,7 +26938,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "ef88b47ee02cfcb84a828ea96354ac38e1134eb8a2c5ef17514ea92d37cc7e34"
+hash = "ca117bbb60ad813754443abac8a4fc9ae1130b19744d2dc4941ff86f9526f5f3"
 metafile = true
 
 [[files]]
@@ -26953,7 +26953,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bitterballen.pw.toml"
-hash = "ae492b327dd249474dc1e0d04fb604dad90362b8dd837438b4a3921480fc4d00"
+hash = "d2c1512bb86da28c630b64d3800258ec22189a3441fa0dfc987f9979bbe8e2ea"
 metafile = true
 
 [[files]]
@@ -26968,7 +26968,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "995891050382ba230bd613ddf5dd791fc2d8a793db155528315444dc892dac89"
+hash = "3d79e39300d5c84135b684c434479f15424d757b655c97871a7697e2a7a032e2"
 metafile = true
 
 [[files]]
@@ -26983,7 +26983,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "92361d5492216d5f85c239f6d85526a6a428252f67490fd9dc3dbacd8d477126"
+hash = "5353c4e6b520509287c4ad51c35566ecdc58a805f16065226e5df0a6faccfa1e"
 metafile = true
 
 [[files]]
@@ -26993,22 +26993,27 @@ metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "d61c350c03cabc2503e28033b1da505e655159fa2ceebf2c1165a78fd7486947"
+hash = "6f6eea3ba35509ed7a793e61f399e7e40d62c323296b2add069c516041a38b40"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "ee3b7dc99b94d1a63e5d7be47a440b043e6455ba5f1b045805d5b3d77efc7aae"
 metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "a5016e54779043016fef005525571ad13db8a70a9b1dc3f6e51d8541ecd9cb19"
+hash = "8d5771f1c60e7366debb707bf37b8edd0e8a44effb8281e90ca5cea3e9f32531"
 metafile = true
 
 [[files]]
 file = "mods/create-vintage-improvements.pw.toml"
-hash = "0b1dd5d65f2842d308e298014fe11eeb6236cd9a1898bc3ab5b031ed8f5ca316"
+hash = "e7595e928b78738cb0b778d8a4b7eae8271f67fad65a5591b7be10da9164093d"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "8f7b16bd319a4c534acbc80f83e4359b756b301c76444d5a0afa1d1cb45d20a4"
+hash = "45d23f946a728a4ec6ccd6b33cbc86d343d55a45f0ed1165e3676b1f7502e874"
 metafile = true
 
 [[files]]
@@ -27348,7 +27353,7 @@ metafile = true
 
 [[files]]
 file = "mods/interiors.pw.toml"
-hash = "2ca64a4fb4cfa7b089c8b29a6b7b8b4e2d54af5579bed42f1f911bcbb1a3112d"
+hash = "fa323dd9050360e5c2254ecba9b72e576d756a316da80c899579f311d0b4ebc7"
 metafile = true
 
 [[files]]
@@ -27569,6 +27574,11 @@ metafile = true
 [[files]]
 file = "mods/nerb.pw.toml"
 hash = "bb1a457b04dd29a7624c40290376d6e5252d8eb6c7aa22214a06c318c027b9e7"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "c05ee4283398e4eabfa7ccd3b1209245d6886ac0d470f461672d784048548d1c"
 metafile = true
 
 [[files]]
@@ -27953,7 +27963,7 @@ metafile = true
 
 [[files]]
 file = "mods/trafficcraft.pw.toml"
-hash = "b09e41721318fdd43f3bf76cf5e91c503281598ea46e4ccf069b3bdd14fa4dea"
+hash = "c6fa20a5ecdd7e1f54d27ed7f26c164041e6b8606c108eb508622034d117f356"
 metafile = true
 
 [[files]]
