@@ -26536,6 +26536,10 @@ file = "kubejs/server_scripts/tentacle_encased.js"
 hash = "e0362bb2a289d3fe4e9238ddab67257082ebfd39fc4631e6de4fdd2827095836"
 
 [[files]]
+file = "kubejs/server_scripts/tentacle_generator.js"
+hash = "2d4094f44b08d74619b07cff3ed25dce5a2a06b1082abbbcab470af5940a7f83"
+
+[[files]]
 file = "kubejs/server_scripts/tentacle_magnets.js"
 hash = "9cde5b0912f852c376e564398861930a7526360008d9d8196c7cd7563fbf6fd5"
 
@@ -26573,7 +26577,7 @@ hash = "e41810160dd4cd864f6c71ee3426aa07720ac84c53f749df052d85798002e77f"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_vintage.js"
-hash = "496be935910f9289f42f4c5085e996b5a11dc6832f0f0c3694183c4814720485"
+hash = "a8e0947927a56412bd97105f88d1a90803acd91202a2b56e4dfb6faecdfd768b"
 
 [[files]]
 file = "kubejs/startup_scripts/block_break_speed_modify.js"

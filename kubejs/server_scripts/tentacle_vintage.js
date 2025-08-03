@@ -57,7 +57,7 @@ ServerEvents.recipes(event => {
 	event.remove({ output: '#forge:plates/cast_iron' })
 	hammering('createdeco:cast_iron_sheet', 1, 'createdeco:cast_iron_ingot')
 
-	event.remove({ not: { output: 'create:sandpaper' }, output: '#create:sandpaper' })
+	//event.remove({ not: { output: 'create:sandpaper' }, output: '#create:sandpaper' })
 	event.replaceInput({},
 		'#create:sandpaper',
 		'create:sandpaper'
@@ -67,7 +67,14 @@ ServerEvents.recipes(event => {
 		'#forge:sand'
 	)
 
+	event.shaped('vintageimprovements:grinder_belt', [
+		'SSS',
+		'SSS'
+	], {
+		S: 'create:sandpaper'
+	}).id('tentacle_flavoured:shapeless/vintage_improvements_grinder_belt')
+
 	// doesn't work
 	//event.remove({ id: /.*sandpaper_polishing.*using_deployer/ })
-	event.remove({ type: 'create:deploying', id: /.*sandpaper_polishing.*using_deployer/ })
+	//event.remove({ type: 'create:deploying', id: /.*sandpaper_polishing.*using_deployer/ })
 })
