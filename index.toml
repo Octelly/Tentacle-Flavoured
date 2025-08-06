@@ -26537,7 +26537,7 @@ hash = "e0362bb2a289d3fe4e9238ddab67257082ebfd39fc4631e6de4fdd2827095836"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_generator.js"
-hash = "2d4094f44b08d74619b07cff3ed25dce5a2a06b1082abbbcab470af5940a7f83"
+hash = "35d365e8ae69de5fb585bfe07a679ca2ba4349d2555a4f310b709a41dc277389"
 
 [[files]]
 file = "kubejs/server_scripts/tentacle_magnets.js"
